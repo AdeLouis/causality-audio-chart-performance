@@ -1,0 +1,1198 @@
+danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Position,Genres,Artist_Name,Date
+0.638,0.523,1,-6.664,1,0.357,0.00454,0.0,0.0842,0.422,139.913,185947,4,4,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.658,0.535,9,-8.983,0,0.0573,0.0265,0.0,0.2,0.419,110.684,227360,4,14,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.748,0.705,4,-4.547,0,0.485,0.204,0.0,0.246,0.483,189.891,208733,4,16,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.8,0.585,10,-7.343,1,0.0924,0.264,0.0,0.153,0.779,126.058,213400,4,18,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.67,0.7,1,-7.893,1,0.196,0.576,5.34e-06,0.226,0.648,69.986,160293,4,32,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.568,0.619,1,-6.899,1,0.414,0.138,1.67e-06,0.11,0.293,170.115,254200,4,33,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.746,0.798,0,-8.382,1,0.349,0.137,0.0,0.139,0.553,109.968,214827,4,35,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.665,0.535,4,-7.056,0,0.0572,0.0786,1.68e-05,0.154,0.37,138.842,275253,4,37,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.697,0.506,8,-4.863,1,0.0325,0.0792,0.0,0.0893,0.516,100.002,211364,4,39,art pop**dance pop**pop,Lady Gaga,5/1/17
+0.678,0.562,3,-9.197,0,0.508,0.193,0.0,0.104,0.566,94.241,307880,4,42,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.588,0.479,1,-7.039,1,0.281,0.604,7.2e-06,0.527,0.434,150.414,460573,4,50,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.357,0.238,8,-16.78,0,0.265,0.142,0.0859,0.55,0.494,156.907,118067,4,54,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.706,0.557,0,-5.8,1,0.0813,0.0347,0.0,0.276,0.205,132.98,248827,4,58,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.552,0.731,7,-6.873,1,0.615,0.0536,0.0,0.258,0.632,174.516,248613,4,63,conscious hip hop**hip hop**rap**west coast rap,Kendrick Lamar,5/1/17
+0.565,0.771,1,-5.22,1,0.213,0.00464,0.0,0.0568,0.573,168.385,225526,4,76,indie pop rap**oakland hip hop**pop**pop rap**rap,G-Eazy,5/1/17
+0.957,0.593,1,-6.982,1,0.301,0.06,0.0,0.0908,0.284,127.027,247613,4,78,atl hip hop**hip hop**melodic rap**rap**trap**viral rap,Lil Yachty,5/1/17
+0.611,0.867,1,-5.298,1,0.0896,0.11,0.000105,0.346,0.336,140.032,331267,4,87,conscious hip hop**dmv rap**hip hop**pop rap**rap,Logic,5/1/17
+0.613,0.564,8,-7.085,1,0.0251,0.134,1.65e-06,0.0585,0.538,78.388,180907,4,93,contemporary country**outlaw country,Chris Stapleton,5/1/17
+0.545,0.366,2,-9.51,1,0.0378,0.969,0.267,0.641,0.1,86.997,208212,3,99,indie folk**stomp and holler,Lord Huron,5/1/17
+0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,199440,4,44,canadian pop**dance pop**pop**viral pop,Shawn Mendes,5/8/17
+0.504,0.655,0,-8.644,0,0.0542,0.604,0.00193,0.364,0.262,99.982,264066,4,64,art pop**pop,Lana Del Rey,5/8/17
+0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,208787,4,68,dance pop**pop**viral pop,Charlie Puth,5/8/17
+0.745,0.593,8,-6.35,1,0.0524,0.00522,5.06e-06,0.123,0.17,111.001,212027,3,87,pop**pop rap,blackbear,5/8/17
+0.695,0.818,5,-5.379,0,0.0334,0.00647,4.87e-06,0.0219,0.916,119.965,182693,4,90,candy pop**pixie**pop emo**pop punk,Paramore,5/8/17
+0.652,0.719,1,-7.251,1,0.033,0.0353,0.0,0.108,0.24,94.969,197640,4,93,contemporary country**country**country road**modern country rock,Dylan Scott,5/8/17
+0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,250173,4,61,conscious hip hop**dmv rap**hip hop**pop rap**rap,Logic,5/15/17
+0.633,0.592,0,-7.245,0,0.112,0.197,0.0,0.099,0.679,90.066,193511,4,67,edm**pop**pop dance**tropical house,Kygo,5/15/17
+0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,187147,4,70,modern rock**pop**rock,Imagine Dragons,5/15/17
+0.8,0.795,6,-5.835,1,0.0626,0.131,9.02e-05,0.221,0.528,106.031,227813,4,76,dance pop**pop**post-teen pop,Katy Perry,5/15/17
+0.741,0.58,0,-7.741,1,0.378,0.153,0.0,0.109,0.428,97.092,220964,4,87,dance pop**pop**pop rap**r&b**rap,Chris Brown,5/15/17
+0.735,0.425,0,-6.648,1,0.0464,0.011,0.0,0.055,0.848,85.896,188174,4,90,dance pop**pop**post-teen pop,Niall Horan,5/15/17
+0.791,0.582,11,-7.323,0,0.286,0.0114,0.0,0.35,0.443,162.991,181812,4,91,atl hip hop**plugg**rap**trap,Playboi Carti,5/15/17
+0.427,0.262,7,-8.541,1,0.0276,0.746,0.0,0.068,0.228,104.085,224867,4,93,pop,Harry Styles,5/15/17
+0.785,0.62,8,-6.667,1,0.254,0.0138,0.0,0.15,0.478,78.477,235535,4,100,atl hip hop**plugg**rap**trap,Playboi Carti,5/15/17
+0.573,0.781,8,-6.406,1,0.0555,0.0767,2.64e-05,0.0813,0.343,139.934,231907,4,64,dance pop**pop**post-teen pop,Miley Cyrus,5/22/17
+0.523,0.725,2,-5.448,1,0.0339,0.0558,6.96e-06,0.0937,0.528,155.855,214800,4,79,contemporary country**country**country road**oklahoma country,Blake Shelton,5/22/17
+0.655,0.0645,4,-14.765,1,0.0429,0.854,1.11e-05,0.107,0.278,129.399,248053,4,89,contemporary country**outlaw country,Chris Stapleton,5/22/17
+0.622,0.763,9,-6.4,1,0.0263,0.055,8.91e-06,0.313,0.621,102.0,220800,4,97,neo-traditional country**texas country,Midland,5/22/17
+0.754,0.762,6,-4.486,0,0.0849,0.45,6.67e-05,0.224,0.673,92.002,272667,4,62,dance pop**edm**electro house**house**pop**pop rap**progressive house**uk dance,Calvin Harris,5/29/17
+0.965,0.414,1,-6.408,1,0.0713,0.189,0.0,0.0767,0.728,121.032,214648,4,80,dance pop**pop**post-teen pop,Selena Gomez,5/29/17
+0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,201240,4,92,modern rock**pop**rock,Imagine Dragons,5/29/17
+0.766,0.756,5,-5.861,1,0.132,0.213,0.0,0.349,0.716,94.027,230000,4,93,latin**reggaeton**reggaeton colombiano,Maluma,5/29/17
+0.739,0.619,10,-6.669,1,0.162,0.0572,0.0,0.105,0.58,112.961,222787,4,95,dance pop**edm**electro house**electropop**pop**pop dance**pop edm**tropical house,Cheat Codes,5/29/17
+0.368,0.478,8,-4.978,1,0.0306,0.321,0.0,0.121,0.325,167.526,212758,4,98,contemporary country**country pop**viral pop,Lauren Duski,5/29/17
+0.74,0.879,9,-2.251,0,0.105,0.193,8.25e-05,0.0928,0.948,103.71,226893,4,100,colombian pop**dance pop**latin**latin pop**pop,Shakira,5/29/17
+0.874,0.497,6,-5.484,1,0.0562,0.22,0.0,0.0761,0.542,106.023,204502,4,42,dance pop**pop**post-teen pop,Liam Payne,6/5/17
+0.433,0.337,2,-6.386,1,0.0383,0.691,0.0,0.0873,0.243,71.569,187824,4,43,contemporary country**country pop**viral pop,Lauren Duski,6/5/17
+0.838,0.705,5,-5.201,0,0.0449,0.0184,1.82e-05,0.102,0.583,119.953,242520,4,46,dance pop**pop**post-teen pop,Katy Perry,6/5/17
+0.334,0.617,6,-5.834,0,0.383,0.334,0.0,0.163,0.603,85.227,216391,4,47,dance pop**pop**post-teen pop,Camila Cabello,6/5/17
+0.629,0.723,0,-5.988,1,0.0433,0.0207,0.0,0.188,0.514,101.016,194663,4,66,,Chris Blue,6/5/17
+0.554,0.903,8,-3.152,1,0.0515,0.0103,0.0,0.107,0.419,112.998,206827,4,76,contemporary country**country**country road,Rascal Flatts,6/5/17
+0.756,0.572,9,-7.019,1,0.0763,0.0478,0.0,0.0853,0.417,102.986,204400,4,77,dance pop**pop**post-teen pop,Hailee Steinfeld,6/5/17
+0.465,0.446,2,-5.515,1,0.0278,0.208,0.0,0.138,0.193,132.022,210732,4,92,contemporary country**country pop**viral pop,Lauren Duski,6/5/17
+0.498,0.408,6,-7.946,1,0.0331,0.644,0.0,0.0993,0.383,78.942,198973,4,94,contemporary country**country**country road**modern country rock,Lee Brice,6/5/17
+0.735,0.588,5,-7.197,0,0.226,0.0356,0.0,0.107,0.435,90.002,194267,4,74,kentucky hip hop**pop**pop rap**r&b**rap**trap,Bryson Tiller,6/12/17
+0.932,0.702,7,-3.459,0,0.0904,0.00304,1.86e-05,0.267,0.533,143.001,167853,4,85,kentucky hip hop**pop**pop rap**r&b**rap**trap,Bryson Tiller,6/12/17
+0.817,0.587,2,-6.502,1,0.108,0.052,0.00165,0.185,0.352,140.062,209143,4,88,atl hip hop**dirty south rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,Gucci Mane,6/12/17
+0.651,0.782,8,-4.295,1,0.0718,0.295,0.0,0.107,0.945,171.987,176893,4,90,contemporary country**country**country road,Old Dominion,6/12/17
+0.646,0.756,9,-9.017,0,0.488,0.393,3e-05,0.202,0.602,193.88,169267,4,91,kentucky hip hop**pop**pop rap**r&b**rap**trap,Bryson Tiller,6/12/17
+0.611,0.644,6,-7.607,0,0.0553,0.124,0.0,0.124,0.13,105.969,221904,4,94,dance pop**dutch edm**edm**pop**pop dance**progressive house**tropical house,Martin Garrix,6/12/17
+0.651,0.663,11,-7.78,1,0.327,0.205,0.0,0.105,0.377,114.137,134747,4,98,kentucky hip hop**pop**pop rap**r&b**rap**trap,Bryson Tiller,6/12/17
+0.763,0.628,11,-5.85,1,0.05,0.0531,0.0,0.114,0.193,140.958,190557,4,99,rap**slap house,Travis Scott,6/12/17
+0.69,0.784,11,-4.724,1,0.056,0.01,4.08e-05,0.22,0.284,109.969,221206,4,100,dance pop**electropop**etherpop**indie poptimism**pop,Halsey,6/12/17
+0.53,0.512,8,-7.094,1,0.133,0.0162,7.04e-05,0.128,0.401,196.121,165200,4,42,dance pop**girl group**pop**post-teen pop**talent show**viral pop,Fifth Harmony,6/19/17
+0.461,0.812,10,-5.776,0,0.241,0.0184,0.000375,0.21,0.72,159.869,193902,4,53,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,6/19/17
+0.519,0.57,1,-7.366,1,0.202,0.0254,0.0,0.0821,0.317,164.155,205373,4,82,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,6/19/17
+0.554,0.743,9,-6.016,1,0.0287,0.0251,0.0,0.359,0.673,72.997,205733,4,85,contemporary country**country**country road**modern country rock,Dustin Lynch,6/19/17
+0.738,0.814,7,-4.414,0,0.0999,0.132,9.64e-06,0.126,0.483,119.041,225850,4,87,dance pop**edm**electro house**moombahton**pop**pop dance**pop rap**tropical house,Major Lazer,6/19/17
+0.79,0.714,1,-7.86,0,0.202,0.00142,0.0,0.111,0.559,150.033,217678,5,94,social media pop,Jake Paul,6/19/17
+0.488,0.744,2,-4.284,0,0.131,0.0353,0.0,0.0952,0.59,180.007,165173,4,97,arkansas country**contemporary country**country**country road**modern country rock**redneck,Justin Moore,6/19/17
+0.708,0.612,5,-6.379,0,0.122,0.0381,0.0,0.277,0.263,139.913,229013,4,99,dance pop**hip pop**pop**r&b**southern hip hop**trap**urban contemporary,Trey Songz,6/19/17
+0.551,0.651,8,-5.828,0,0.0594,0.225,0.0,0.224,0.562,144.875,194907,4,16,big room**dance pop**edm**pop**pop dance**pop rap,David Guetta,6/26/17
+0.795,0.594,0,-6.2,1,0.0748,0.112,0.0,0.162,0.409,135.002,275080,4,70,pop**r&b**rap,SZA,6/26/17
+0.553,0.747,9,-5.432,1,0.0279,0.106,0.0,0.154,0.521,90.012,234307,4,79,contemporary country**country**country road**modern country rock,Billy Currington,6/26/17
+0.744,0.859,11,-3.166,1,0.0795,0.0256,6.27e-05,0.0881,0.787,91.977,232787,4,89,latin**latin hip hop**reggaeton**trap latino,Wisin,6/26/17
+0.612,0.799,10,-4.603,1,0.0275,0.00898,0.0,0.172,0.687,125.976,188253,4,93,black americana**contemporary country**country road,Kane Brown,6/26/17
+0.822,0.502,7,-7.38,1,0.148,0.0312,0.000887,0.114,0.525,73.003,210200,4,95,atl hip hop**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,2 Chainz,6/26/17
+0.735,0.831,9,-5.898,1,0.0332,0.00166,0.217,0.291,0.756,123.017,216800,4,100,contemporary country**country**country road**modern country rock**modern southern rock,Brothers Osborne,6/26/17
+0.613,0.681,8,-3.089,1,0.0778,0.0287,0.0,0.126,0.619,97.621,204664,4,4,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,7/3/17
+0.893,0.745,11,-3.105,0,0.0571,0.0642,0.0,0.0943,0.872,101.018,223413,4,51,dance pop**edm**electro house**house**pop**pop rap**progressive house**uk dance,Calvin Harris,7/3/17
+0.806,0.557,2,-6.633,0,0.114,0.405,6.62e-06,0.0838,0.504,140.011,180000,4,61,florida rap**hip hop**melodic rap**miami hip hop**rap**southern hip hop**trap,Kodak Black,7/3/17
+0.842,0.597,2,-6.336,1,0.0627,0.00252,0.0,0.124,0.298,145.992,215307,4,83,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,7/3/17
+0.801,0.795,1,-5.115,0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,163253,4,89,indie rock**modern alternative rock**modern rock**rock,Portugal. The Man,7/3/17
+0.559,0.531,10,-6.981,0,0.404,0.0137,0.0,0.293,0.333,144.367,231674,4,100,dirty south rap**gangster rap**hip hop**miami hip hop**pop rap**r&b**rap**southern hip hop**trap**urban contemporary,Plies,7/3/17
+0.794,0.735,0,-4.204,1,0.054,0.108,0.00578,0.112,0.223,107.374,234373,4,36,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/10/17
+0.914,0.572,2,-8.82,1,0.166,0.0709,0.00237,0.0599,0.203,123.963,265480,4,71,hip hop**pop rap**rap**southern hip hop**trap**underground hip hop,Metro Boomin,7/10/17
+0.542,0.755,1,-3.68,1,0.0614,0.0232,0.0,0.225,0.267,168.22,233293,4,88,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,7/10/17
+0.728,0.607,1,-8.417,0,0.132,0.133,0.0,0.0864,0.445,129.938,176702,4,94,alternative r&b**dmv rap**hip hop**indie soul**r&b**rap**underground hip hop,GoldLink,7/10/17
+0.76,0.716,11,-6.36,0,0.0817,0.0223,0.0,0.231,0.469,105.007,209733,4,70,latin**reggaeton**reggaeton colombiano**trap latino,J Balvin,7/17/17
+0.91,0.444,1,-8.126,0,0.344,0.022,0.0,0.137,0.53,149.953,276333,4,78,dirty south rap**gangster rap**hip hop**memphis hip hop**pop rap**rap**southern hip hop**tennessee hip hop**trap,Yo Gotti,7/17/17
+0.706,0.485,8,-9.671,1,0.331,0.337,0.0,0.122,0.144,115.414,205093,4,87,hip hop**rap,"Tyler, The Creator",7/17/17
+0.596,0.834,9,-4.308,1,0.0474,0.0563,0.0,0.0866,0.618,116.0,205200,4,89,contemporary country**country**country road**modern country rock,Jon Pardi,7/17/17
+0.831,0.573,4,-6.408,0,0.221,0.188,0.000883,0.109,0.229,100.015,246173,4,99,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,7/17/17
+0.741,0.718,7,-5.823,1,0.415,0.283,2.21e-06,0.23,0.576,165.848,231760,4,23,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.543,0.39,10,-7.202,1,0.0322,0.489,0.0,0.111,0.303,73.415,230267,4,25,dance pop**electropop**pop**post-teen pop,Kesha,7/24/17
+0.884,0.346,8,-8.228,0,0.351,0.0151,7.04e-06,0.0871,0.376,75.016,220307,4,33,atl hip hop**rap**trap,21 Savage,7/24/17
+0.261,0.852,9,-4.965,1,0.158,0.139,4.26e-05,0.477,0.431,177.997,284493,4,35,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.639,0.788,6,-2.879,1,0.35,0.455,0.0,0.058,0.847,155.913,234973,4,47,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.543,0.721,1,-6.805,1,0.317,0.17,1.06e-06,0.59,0.499,82.992,251413,4,51,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.706,0.643,11,-6.929,0,0.234,0.0242,0.0,0.262,0.885,143.931,203760,4,52,dance pop**pop**post-teen pop,Demi Lovato,7/24/17
+0.542,0.821,10,-6.458,0,0.32,0.133,1.34e-06,0.57,0.286,84.425,178067,4,55,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.779,0.57,5,-8.752,0,0.469,0.303,0.0,0.218,0.467,99.878,289853,4,56,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.813,0.837,1,-6.356,1,0.298,0.166,0.0,0.0835,0.744,84.965,206133,4,63,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.758,0.633,5,-8.373,0,0.391,0.236,0.0,0.272,0.516,88.17,143987,4,86,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.731,0.794,0,-5.126,0,0.0522,0.0323,2.59e-05,0.112,0.356,139.994,220454,4,89,pop rap**seattle hip hop,Macklemore,7/24/17
+0.518,0.678,10,-6.76,1,0.331,0.542,0.0,0.108,0.604,81.951,174427,4,90,east coast hip hop**hip hop**rap,JAY-Z,7/24/17
+0.718,0.926,1,-3.511,1,0.0494,0.027,1.76e-05,0.0513,0.54,108.018,204583,4,91,complextro**dance pop**edm**electro house**electropop**german techno**pop**pop dance**tropical house,Zedd,7/24/17
+0.708,0.618,2,-4.424,1,0.0592,0.0204,6.81e-06,0.062,0.265,123.013,186113,4,92,dance pop**pop**post-teen pop,Selena Gomez,7/24/17
+0.779,0.597,9,-9.652,0,0.434,0.723,4.47e-05,0.0508,0.646,173.986,234280,4,94,atl hip hop**rap**trap,21 Savage,7/24/17
+0.516,0.792,1,-5.38,0,0.216,0.0235,0.0,0.404,0.524,121.189,226790,5,75,hip hop**pop rap**rap**southern hip hop**trap,French Montana,7/31/17
+0.799,0.539,1,-6.351,1,0.0421,0.199,1.66e-05,0.165,0.394,136.948,202547,4,91,pop**pop r&b,Khalid,7/31/17
+0.743,0.765,5,-3.588,0,0.039,0.0444,0.0417,0.667,0.34,114.991,196360,4,96,dance pop**electropop**pop**post-teen pop,Kesha,7/31/17
+0.683,0.53,5,-4.918,0,0.142,0.207,0.0,0.394,0.645,75.016,190428,4,40,pop**post-teen pop,Louis Tomlinson,8/7/17
+0.727,0.932,1,-4.931,1,0.16,0.098,0.0,0.211,0.662,114.032,190720,4,61,disney**post-teen pop**social media pop,China Anne McClain,8/7/17
+0.784,0.608,7,-5.885,1,0.245,0.167,0.0,0.0871,0.382,90.713,211685,4,77,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.683,0.854,2,-3.915,1,0.196,0.0948,0.0,0.267,0.131,92.006,189057,4,79,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.63,0.628,2,-4.016,1,0.327,0.0515,0.0,0.091,0.266,121.307,282667,5,83,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.737,0.709,8,-6.889,0,0.045,0.333,0.0,0.289,0.556,125.997,234829,4,91,bachata**latin,Romeo Santos,8/7/17
+0.624,0.728,0,-6.39,1,0.465,0.141,0.0,0.106,0.599,152.088,227957,4,96,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.86,0.717,11,-4.614,0,0.297,0.00246,0.0,0.159,0.528,148.955,257854,4,97,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.472,0.695,10,-5.008,0,0.443,0.239,0.0,0.0942,0.351,73.031,250467,3,99,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,8/7/17
+0.807,0.736,7,-6.748,1,0.151,0.109,0.00729,0.104,0.54,154.023,242933,4,38,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,8/14/17
+0.661,0.75,7,-5.497,1,0.0314,0.0303,0.000132,0.0849,0.828,130.077,157080,4,68,contemporary country**country**country road**modern country rock,Thomas Rhett,8/14/17
+0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-06,0.265,0.625,128.027,240760,4,85,contemporary country**country,Luke Combs,8/14/17
+0.434,0.921,10,-2.248,0,0.0688,0.0207,0.00209,0.116,0.426,171.945,195307,4,87,contemporary country**country**country road,Jason Aldean,8/14/17
+0.673,0.514,0,-10.772,0,0.0465,0.0121,8.5e-05,0.385,0.312,100.035,208000,4,88,dance pop**edm**electropop**pop**pop dance**tropical house,The Chainsmokers,8/14/17
+0.4,0.366,8,-9.405,0,0.0597,0.242,0.0,0.126,0.161,73.313,272187,3,89,pop**r&b**rap,SZA,8/14/17
+0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,209320,4,90,dance pop**pop**uk pop,Dua Lipa,8/14/17
+0.649,0.718,0,-6.593,0,0.0261,0.142,0.0713,0.124,0.718,101.034,274093,4,93,modern alternative rock**modern blues rock**modern rock**rock**stomp and holler,The Revivalists,8/14/17
+0.636,0.428,0,-6.512,1,0.0375,0.434,1.02e-05,0.0907,0.32,139.919,180053,4,94,contemporary country**country**country pop,Carly Pearce,8/14/17
+0.515,0.847,5,-2.951,1,0.0391,0.00369,7.19e-05,0.293,0.645,168.105,217547,4,97,dance pop**electropop**pop**post-teen pop,Kesha,8/14/17
+0.612,0.848,6,-3.736,1,0.0368,0.00916,0.0,0.366,0.719,120.996,212893,4,98,contemporary country**country**country road,Kenny Chesney,8/14/17
+0.491,0.904,6,-4.324,1,0.0344,0.0985,0.0,0.183,0.588,150.007,211227,4,99,contemporary country**country**country road**modern country rock,Chris Lane,8/14/17
+0.766,0.606,9,-6.064,1,0.456,0.00266,0.0,0.166,0.352,160.223,140000,4,70,cali rap**dfw rap**rap**trap**underground hip hop**vapor trap,Tay-K,8/21/17
+0.806,0.77,1,-6.464,0,0.19,0.0252,0.0,0.0645,0.406,152.094,198110,4,76,florida rap**hip hop**melodic rap**miami hip hop**rap**southern hip hop**trap,Kodak Black,8/21/17
+0.655,0.576,5,-6.735,0,0.0536,0.0295,0.115,0.132,0.167,139.953,228893,4,81,dance pop**pop**post-teen pop,Camila Cabello,8/21/17
+0.491,0.588,1,-6.177,1,0.0506,0.0281,2.01e-06,0.0906,0.193,113.608,269600,4,82,dance pop**pop,P!nk,8/21/17
+0.899,0.448,1,-8.789,1,0.0738,0.000692,2.36e-05,0.365,0.302,145.975,204787,4,84,hip hop**melodic rap**mississippi hip hop**pop rap**rap**southern hip hop**trap,Rae Sremmurd,8/21/17
+0.739,0.536,1,-6.501,1,0.0587,0.00368,0.0,0.0968,0.193,122.022,236147,4,94,atl hip hop**dance pop**pop**pop r&b**pop rap**r&b**rap**urban contemporary,Jacquees,8/21/17
+0.697,0.775,8,-6.664,1,0.083,0.0318,0.0,0.232,0.826,113.886,193792,4,95,pop**post-teen pop**social media pop,Sofia Carson,8/21/17
+0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,217307,4,99,dance pop**pop**post-teen pop,Camila Cabello,8/21/17
+0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823,4,42,brostep**edm**pop**pop dance**progressive electro house,Marshmello,8/28/17
+0.555,0.746,2,-5.522,1,0.033,0.00825,0.0,0.0796,0.712,75.01,154707,4,88,contemporary country**country**country road**modern country rock,Kip Moore,8/28/17
+0.814,0.635,7,-6.609,0,0.0809,0.0935,0.0,0.0892,0.784,87.581,200774,4,92,dance pop**hip hop**pittsburgh rap**pop rap**rap**southern hip hop**trap,Wiz Khalifa,8/28/17
+0.768,0.79,1,-5.091,1,0.191,0.0754,1.79e-06,0.13,0.398,84.95,180706,4,95,baton rouge rap**trap,YoungBoy Never Broke Again,8/28/17
+0.638,0.634,6,-6.474,1,0.0468,0.214,0.0,0.0866,0.473,92.097,196422,4,97,contemporary country**country**texas country,Maren Morris,8/28/17
+0.563,0.887,1,-5.013,1,0.0857,0.0297,0.0,0.352,0.794,158.05,188933,4,98,contemporary country**country**country road**modern country rock,Chris Janson,8/28/17
+0.743,0.735,8,-5.337,1,0.0382,0.00389,0.0,0.304,0.631,104.979,189467,4,20,canadian pop**pop,Justin Bieber,9/4/17
+0.89,0.633,11,-5.475,1,0.168,0.0232,0.000343,0.0993,0.425,139.948,233087,4,34,atl hip hop**dirty south rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,Gucci Mane,9/4/17
+0.747,0.524,10,-6.807,0,0.245,0.0306,0.0,0.2,0.363,140.053,213132,4,53,florida rap**hip hop**melodic rap**miami hip hop**rap**southern hip hop**trap,Kodak Black,9/4/17
+0.766,0.709,9,-6.471,0,0.123,0.204,1.41e-05,0.126,0.506,128.07,211853,4,77,pop,Taylor Swift,9/4/17
+0.548,0.873,4,-4.881,1,0.0618,0.00129,4.55e-05,0.138,0.328,121.918,248773,4,79,dance pop**pop**post-teen pop,Miley Cyrus,9/4/17
+0.887,0.784,8,-5.598,1,0.199,0.0244,0.0,0.112,0.408,98.984,155193,4,80,social media pop,Ricegum,9/4/17
+0.804,0.66,10,-4.86,0,0.0726,0.0319,0.0,0.103,0.257,94.053,169345,4,82,florida rap**hip hop**melodic rap**miami hip hop**rap**southern hip hop**trap,Kodak Black,9/4/17
+0.614,0.598,10,-6.335,0,0.0561,0.00543,0.0,0.1,0.565,105.803,129478,4,90,dance pop**pop**pop rap**r&b**rap,Chris Brown,9/4/17
+0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,4,31,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.703,0.757,1,-3.612,1,0.05,0.617,0.0,0.106,0.696,82.008,221747,4,39,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.813,0.528,6,-6.305,0,0.313,0.0715,0.0,0.125,0.131,79.532,207039,4,49,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.734,0.57,7,-7.066,0,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,4,54,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.791,0.513,10,-6.568,0,0.269,0.0235,2.83e-05,0.101,0.481,76.997,247347,4,60,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.799,0.597,5,-5.131,0,0.0611,0.0788,5.66e-06,0.1,0.419,110.001,199849,4,73,pop**pop rock,Maroon 5,9/11/17
+0.608,0.928,6,-2.724,0,0.0883,0.133,0.0,0.103,0.738,130.012,177306,4,76,contemporary country**country**country road,Luke Bryan,9/11/17
+0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,120027,4,77,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.859,0.563,1,-6.635,0,0.112,0.0541,0.0,0.0685,0.412,119.934,258789,4,79,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.773,0.75,8,-4.009,0,0.117,0.109,0.0,0.174,0.783,123.426,220587,4,80,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.732,0.75,11,-6.366,0,0.231,0.00264,0.0,0.109,0.401,155.096,182707,4,81,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.902,0.673,4,-7.481,1,0.458,0.159,0.0,0.289,0.615,132.066,177048,4,82,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.778,0.707,4,-3.606,0,0.0746,0.0459,0.0,0.111,0.458,126.684,190355,4,84,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.788,0.689,8,-7.211,1,0.13,0.0112,0.0,0.22,0.681,136.045,189230,4,90,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.769,0.156,11,-10.7,0,0.035,0.585,0.015,0.102,0.527,105.95,144733,4,91,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.747,0.606,4,-5.286,1,0.172,0.222,0.0,0.281,0.2,155.055,173419,4,92,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/11/17
+0.731,0.204,9,-11.314,0,0.0369,0.307,0.0109,0.0989,0.191,142.141,163202,4,94,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.735,0.197,3,-13.378,0,0.537,0.768,0.000276,0.296,0.383,147.899,129720,4,95,emo rap**miami hip hop,XXXTENTACION,9/11/17
+0.54,0.599,6,-5.465,1,0.0452,0.0257,0.0,0.147,0.243,82.029,236987,4,97,dance pop**pop**post-teen pop,Demi Lovato,9/11/17
+0.613,0.764,2,-6.509,1,0.136,0.0527,0.0,0.197,0.417,160.015,208187,4,4,pop,Taylor Swift,9/18/17
+0.852,0.577,6,-6.347,0,0.16,0.215,0.0,0.138,0.448,119.986,140008,4,77,pop**social media pop**trap queen**viral rap,Bhad Bhabie,9/18/17
+0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,181279,4,81,dance pop**electropop**etherpop**indie poptimism**pop,Halsey,9/18/17
+0.669,0.617,10,-8.72,1,0.057,0.401,0.0,0.119,0.621,147.992,222573,4,86,contemporary country**country pop,LANCO,9/18/17
+0.674,0.506,6,-10.532,1,0.0434,0.173,0.0,0.0866,0.183,145.965,259333,4,97,dance pop**pop**r&b**urban contemporary,Miguel,9/18/17
+0.614,0.682,11,-4.117,0,0.102,0.387,0.0,0.134,0.566,100.202,169853,4,100,detroit hip hop**pop r&b**pop rap**r&b**rap**trap**trap queen,DeJ Loaf,9/18/17
+0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,201000,4,5,dance pop**pop**uk pop,Sam Smith,9/25/17
+0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,239000,4,44,dance pop**pop**post-teen pop**uk pop,ZAYN,9/25/17
+0.808,0.581,11,-5.43,1,0.07,0.0053,1.19e-05,0.0828,0.758,130.012,172427,4,62,dance pop**neo mellow**pop**pop rock**post-teen pop**talent show,Kelly Clarkson,9/25/17
+0.46,0.821,4,-5.333,0,0.0404,0.0528,0.0,0.0818,0.438,164.144,191733,4,80,black americana**contemporary country**country road,Kane Brown,9/25/17
+0.936,0.523,5,-6.71,1,0.0597,0.239,0.0,0.117,0.699,119.889,124056,4,81,emo rap**miami hip hop**rap**social media pop**trap**vapor trap,Lil Pump,9/25/17
+0.838,0.771,1,-3.791,1,0.244,0.0117,0.0,0.0853,0.405,175.957,245387,4,85,indie pop rap**oakland hip hop**pop**pop rap**rap,G-Eazy,9/25/17
+0.82,0.696,7,-4.918,0,0.182,0.119,0.0,0.232,0.617,144.981,293435,4,98,dance pop**pop**pop rap**r&b**rap,Chris Brown,9/25/17
+0.664,0.708,8,-4.154,1,0.0474,0.0337,0.0,0.0841,0.742,103.07,174800,4,99,dance pop**pop**post-teen pop,Hailee Steinfeld,9/25/17
+0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,218147,4,2,dfw rap**melodic rap**rap,Post Malone,10/2/17
+0.443,0.533,0,-6.548,1,0.0396,0.371,0.0,0.128,0.201,77.344,223044,4,66,dance pop**pop**post-teen pop,Niall Horan,10/2/17
+0.76,0.476,8,-8.103,1,0.241,0.294,0.0,0.1,0.354,147.01,161990,4,67,atl hip hop**dirty south rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,Gucci Mane,10/2/17
+0.598,0.775,1,-4.035,0,0.0545,0.022,0.0,0.0677,0.687,129.819,223123,4,85,k-pop**k-pop boy group,BTS,10/2/17
+0.781,0.548,0,-4.997,0,0.0764,0.229,0.0,0.127,0.175,106.996,214255,4,92,art pop**electropop**metropopolis**nz pop**pop,Lorde,10/2/17
+0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,205920,4,3,dance pop**pop,Ariana Grande,4/30/18
+0.772,0.498,8,-7.661,1,0.649,0.115,0.0,0.0898,0.351,81.817,216727,4,6,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.829,0.527,6,-6.644,0,0.367,0.482,0.0,0.631,0.475,116.079,200310,4,8,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.823,0.783,0,-6.274,1,0.154,0.21,0.0,0.113,0.199,141.882,191437,4,10,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.691,0.487,1,-6.416,1,0.268,0.0299,0.0,0.0868,0.358,104.98,218954,3,14,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.869,0.385,4,-7.801,1,0.297,0.135,0.0,0.0931,0.596,149.897,133922,4,15,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.679,0.648,2,-5.892,1,0.445,0.145,0.0,0.182,0.635,94.378,190177,4,20,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.734,0.543,1,-7.979,1,0.4,0.186,0.0,0.372,0.336,78.168,237295,4,28,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.678,0.567,10,-9.148,0,0.261,0.188,1.67e-06,0.164,0.658,84.039,315771,4,30,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.719,0.626,8,-9.351,1,0.397,0.0607,0.0,0.0728,0.179,75.032,286730,4,41,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.715,0.652,6,-7.909,0,0.396,0.101,0.0,0.11,0.498,109.28,257646,5,46,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.623,0.473,8,-8.336,1,0.461,0.626,0.0,0.119,0.138,84.066,197822,4,47,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.679,0.648,2,-5.892,1,0.445,0.145,0.0,0.182,0.635,94.378,190177,4,53,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,4/30/18
+0.652,0.678,2,-6.183,1,0.0541,0.183,3.26e-05,0.106,0.28,72.989,263014,4,57,pop**pop r&b,Khalid,4/30/18
+0.535,0.777,4,-3.292,1,0.207,0.0187,1.62e-06,0.136,0.664,171.72,215107,4,72,contemporary country**country**country dawn**country road**modern country rock,Sugarland,4/30/18
+0.904,0.651,11,-3.785,0,0.186,0.367,0.000112,0.0518,0.371,96.54,413680,4,74,latin**latin hip hop**reggaeton**reggaeton flow**trap latino,Casper Magico,4/30/18
+0.878,0.947,8,-3.054,0,0.0642,0.0631,1.42e-05,0.142,0.811,110.047,178366,4,81,dance pop**latin**miami hip hop**pop**pop rap,Pitbull,4/30/18
+0.764,0.587,5,-7.002,0,0.0298,0.0721,6.45e-06,0.094,0.494,89.98,229573,4,95,contemporary country**country**country road**country rock**modern country rock,David Lee Murphy,4/30/18
+0.691,0.736,0,-4.993,1,0.0321,0.104,0.0,0.111,0.0395,140.034,193510,4,98,hip hop**melodic rap**mississippi hip hop**pop rap**rap**southern hip hop**trap,Rae Sremmurd,4/30/18
+0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,231267,4,7,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.625,0.536,0,-5.428,1,0.0776,0.038,2.31e-05,0.167,0.253,159.914,221787,4,11,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.599,0.571,2,-4.998,1,0.0665,0.198,0.0,0.0969,0.285,151.974,206453,4,14,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.672,0.717,1,-2.714,1,0.034,0.341,2.4e-05,0.106,0.225,160.981,194560,4,15,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.797,0.55,9,-4.166,1,0.24,0.513,0.0,0.0786,0.543,134.206,206267,4,16,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.507,0.48,5,-5.418,1,0.0266,0.449,0.0,0.147,0.35,86.046,204427,4,17,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.731,0.774,10,-5.273,0,0.0555,0.434,3.34e-06,0.114,0.219,100.005,212467,4,20,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.738,0.824,5,-5.165,0,0.0437,0.15,0.0,0.132,0.386,138.039,204360,4,23,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.569,0.777,4,-4.041,0,0.0834,0.139,0.0,0.132,0.181,164.027,246987,4,24,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.762,0.621,0,-6.24,1,0.0866,0.61,0.0,0.464,0.593,120.056,216747,4,29,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.798,0.733,7,-4.811,0,0.0476,0.265,1.25e-06,0.114,0.861,146.046,211427,4,40,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.652,0.643,9,-5.667,0,0.0353,0.318,2.87e-06,0.208,0.109,104.932,228227,4,46,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.652,0.591,11,-7.274,0,0.0418,0.145,5.65e-06,0.164,0.274,121.873,261800,4,47,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.606,0.775,5,-4.269,0,0.0671,0.262,0.0,0.1,0.307,164.02,228147,4,57,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.534,0.815,5,-2.815,1,0.0278,0.708,0.0,0.111,0.564,159.848,192520,4,62,contemporary country**country,Mason Ramsey,5/7/18
+0.38,0.454,0,-10.271,0,0.0362,0.755,0.623,0.263,0.288,77.592,112013,4,73,dfw rap**melodic rap**rap,Post Malone,5/7/18
+0.809,0.845,10,-5.843,0,0.352,0.224,0.0,0.638,0.67,90.015,176990,4,77,baton rouge rap**trap,YoungBoy Never Broke Again,5/7/18
+0.464,0.822,1,-1.881,1,0.294,0.0568,0.0,0.103,0.722,79.973,202641,4,85,chicago rap**rap,Kanye West,5/7/18
+0.854,0.463,5,-6.159,1,0.137,0.117,0.0,0.354,0.549,120.024,225773,4,1,atl hip hop**hip hop**pop**pop rap**rap,Childish Gambino,5/14/18
+0.706,0.559,4,-5.216,0,0.0416,0.0372,0.0,0.379,0.252,78.534,217405,4,16,rap**slap house,Travis Scott,5/14/18
+0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,193200,4,58,contemporary country**country,Luke Combs,5/14/18
+0.534,0.596,6,-6.653,0,0.117,0.56,0.0,0.133,0.324,100.121,190867,4,65,canadian pop**dance pop**pop**viral pop,Shawn Mendes,5/14/18
+0.856,0.632,6,-3.692,0,0.074,0.193,0.0,0.0688,0.697,112.009,180493,4,74,dance pop**pop**viral pop,Charlie Puth,5/14/18
+0.82,0.603,8,-7.18,1,0.308,0.0351,0.0159,0.122,0.177,159.976,151851,4,80,pop**social media pop**trap queen**viral rap,Bhad Bhabie,5/14/18
+0.638,0.367,4,-7.906,1,0.0266,0.84,0.0,0.0999,0.219,71.957,217120,4,97,contemporary country,Brett Young,5/14/18
+0.731,0.675,8,-4.771,0,0.247,0.175,0.0,0.213,0.381,155.049,236071,4,98,baton rouge rap**trap,YoungBoy Never Broke Again,5/14/18
+0.673,0.649,1,-8.433,0,0.196,0.188,0.0,0.122,0.47,153.075,153800,4,46,atl hip hop**plugg**rap**trap,Playboi Carti,5/21/18
+0.963,0.346,5,-9.309,0,0.53,0.0355,0.0,0.108,0.562,119.957,142273,4,49,atl hip hop**atl trap**rap**trap,Lil Baby,5/21/18
+0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,207905,4,50,dance pop**pop**post-teen pop,Selena Gomez,5/21/18
+0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,239836,4,74,chicago rap**melodic rap,Juice WRLD,5/21/18
+0.777,0.782,0,-4.435,0,0.0907,0.0505,0.0,0.64,0.773,94.023,221653,4,77,latin**latin arena pop**latin pop**mexican pop,Reik,5/21/18
+0.718,0.767,9,-5.641,1,0.166,0.138,0.0,0.114,0.519,160.084,156000,4,91,melodic rap**rap**trap,Lil Skies,5/21/18
+0.671,0.529,0,-7.226,1,0.307,0.0769,0.000335,0.0856,0.203,161.989,165820,4,92,chicago rap**melodic rap,Juice WRLD,5/21/18
+0.557,0.719,2,-4.515,0,0.0372,0.00267,0.0,0.306,0.344,77.501,242334,4,10,k-pop**k-pop boy group,BTS,5/28/18
+0.706,0.783,2,-5.337,1,0.424,0.129,0.0,0.0952,0.513,130.195,205861,4,68,baton rouge rap**pop rap**rap**southern hip hop**trap,Kevin Gates,5/28/18
+0.813,0.646,4,-4.901,1,0.263,0.00271,0.0,0.191,0.375,77.518,173437,4,79,atl hip hop**atl trap**rap**trap,Lil Baby,5/28/18
+0.716,0.541,1,-7.909,1,0.149,0.0021,0.0,0.115,0.387,139.978,247055,4,80,atl hip hop**atl trap**rap**trap,Lil Baby,5/28/18
+0.737,0.728,5,-5.498,0,0.402,0.0392,0.0,0.159,0.587,144.964,195456,4,82,baton rouge rap**pop rap**rap**southern hip hop**trap,Kevin Gates,5/28/18
+0.831,0.713,1,-3.646,0,0.094,0.181,0.0,0.0572,0.69,132.109,202853,4,83,pop rap,Pharrell Williams,5/28/18
+0.618,0.845,2,0.175,1,0.132,0.114,0.0,0.415,0.486,171.921,181720,4,84,dance pop**edm**electro house**house**moombahton**ninja**pop**pop dance**tropical house,Diplo,5/28/18
+0.642,0.782,5,-3.395,0,0.0477,0.381,0.0,0.108,0.396,162.005,195053,4,86,canadian hip hop**canadian trap**hip hop**melodic rap**pop rap**rap**toronto rap**trap,NAV,5/28/18
+0.624,0.696,11,-6.006,1,0.0469,0.109,0.0,0.132,0.392,82.001,213987,4,98,contemporary country**country pop,Sam Hunt,5/28/18
+0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,205040,4,45,east coast hip hop**hip hop**rap**trap,A$AP Rocky,6/4/18
+0.779,0.767,11,-5.462,0,0.258,0.00214,0.0,0.102,0.523,91.981,154565,4,46,emo rap**rap,6ix9ine,6/4/18
+0.674,0.578,10,-8.768,0,0.298,0.0518,0.0055,0.72,0.163,112.265,170240,5,65,alternative hip hop**gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop**virginia hip hop,Pusha T,6/4/18
+0.745,0.346,1,-7.709,1,0.331,0.00552,0.0,0.0881,0.112,203.911,237240,4,66,cali rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,YG,6/4/18
+0.46,0.697,6,-5.954,0,0.325,0.0186,0.0,0.362,0.701,153.426,202120,4,73,alternative hip hop**gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop**virginia hip hop,Pusha T,6/4/18
+0.678,0.636,1,-3.155,1,0.0782,0.0064,8.38e-06,0.177,0.0636,83.071,153267,4,75,alternative hip hop**gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop**virginia hip hop,Pusha T,6/4/18
+0.721,0.881,8,-2.528,1,0.342,0.41,7.61e-06,0.292,0.643,127.759,213750,4,80,dance pop**pop**pop rap**urban contemporary,Jennifer Lopez,6/4/18
+0.884,0.559,0,-7.442,1,0.12,0.0236,0.0,0.101,0.342,97.994,232959,4,82,dance pop**hip hop**pop rap**rap**southern hip hop**trap,Tyga,6/4/18
+0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,200186,4,89,art pop**electropop**pop,Billie Eilish,6/4/18
+0.604,0.868,6,-3.539,1,0.0445,0.086,0.0,0.0502,0.553,94.057,187027,4,93,contemporary country**country**country road**modern country rock,Jake Owen,6/4/18
+0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,235545,4,94,pop**pop rock,Maroon 5,6/4/18
+0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,190947,4,98,modern rock,Panic! At The Disco,6/4/18
+0.694,0.796,5,-3.696,1,0.198,0.0713,0.0163,0.096,0.592,78.033,166120,4,100,alternative hip hop**gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop**virginia hip hop,Pusha T,6/4/18
+0.683,0.776,1,-3.251,0,0.341,0.15,0.0,0.227,0.223,173.996,188773,4,8,chicago rap**rap,Kanye West,6/11/18
+0.925,0.31,11,-6.531,0,0.291,0.123,0.0,0.0931,0.291,121.927,145507,4,11,chicago rap**rap,Kanye West,6/11/18
+0.573,0.545,7,-4.247,0,0.0288,0.0969,0.0,0.329,0.297,83.378,271387,4,16,chicago rap**rap,Kanye West,6/11/18
+0.669,0.419,1,-6.724,0,0.522,0.376,0.0,0.187,0.0397,109.813,215320,4,27,chicago rap**rap,Kanye West,6/11/18
+0.752,0.396,2,-7.932,1,0.411,0.867,0.0,0.0486,0.417,116.016,274187,4,28,chicago rap**rap,Kanye West,6/11/18
+0.643,0.646,10,-2.442,0,0.0629,0.0393,0.0,0.109,0.35,80.174,123040,4,36,chicago rap**rap,Kanye West,6/11/18
+0.362,0.882,3,-3.717,1,0.0973,0.0791,0.0,0.15,0.864,199.811,185200,4,55,contemporary country**country**country pop**country road**modern country rock,Florida Georgia Line,6/11/18
+0.632,0.807,0,-5.893,1,0.126,0.144,0.0211,0.125,0.784,160.174,197933,4,85,alternative hip hop,Gorillaz,6/11/18
+0.534,0.784,8,-3.59,1,0.0339,0.205,0.00579,0.106,0.6,92.147,238627,4,89,alternative rock**modern power pop**modern rock**permanent wave**rock,Weezer,6/11/18
+0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,203418,4,96,boy band**dance pop**electropop**pop**post-teen pop,5 Seconds of Summer,6/11/18
+0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-05,0.104,0.82,94.014,188560,4,99,dance pop**latin**latin pop**latin viral pop**pop**rap latina**reggaeton**trap latino,Becky G,6/11/18
+0.585,0.597,0,-7.499,1,0.037,0.339,0.0404,0.195,0.227,100.051,324674,4,39,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.765,0.542,1,-6.755,1,0.39,0.278,1.87e-05,0.609,0.734,171.945,153351,4,42,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.58,0.469,0,-5.946,0,0.104,0.126,7.32e-05,0.099,0.369,110.573,165053,4,47,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.334,0.81,9,-4.855,0,0.0632,0.00457,0.0,0.158,0.306,151.643,206605,4,62,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.765,0.542,1,-6.755,1,0.39,0.278,1.87e-05,0.609,0.734,171.945,153351,4,67,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.729,0.504,8,-6.784,0,0.0321,0.401,1.44e-06,0.121,0.305,110.011,197001,4,69,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.841,0.682,2,-7.007,1,0.0458,0.113,9.65e-05,0.131,0.338,94.985,245098,4,73,hip hop**rap,KIDS SEE GHOSTS,6/18/18
+0.545,0.854,4,-4.968,0,0.0289,0.00244,1.2e-06,0.249,0.436,91.967,178987,4,84,black americana**contemporary country**country road,Kane Brown,6/18/18
+0.879,0.635,9,-5.098,1,0.259,0.0517,0.0,0.0786,0.568,146.97,192600,4,88,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,6/18/18
+0.773,0.602,10,-6.384,1,0.108,0.194,0.000443,0.141,0.442,74.896,211200,4,90,melodic rap**rap**trap,Lil Skies,6/18/18
+0.698,0.783,2,-6.503,1,0.266,0.016,0.0,0.176,0.378,160.034,264853,4,13,pop**r&b**urban contemporary,The Carters,6/25/18
+0.757,0.73,7,-6.304,1,0.185,0.0342,5.87e-05,0.136,0.452,90.013,189533,4,43,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,6/25/18
+0.668,0.828,4,-5.034,0,0.0739,0.036,0.0,0.0932,0.393,140.042,211350,4,55,k-pop**k-pop girl group,BLACKPINK,6/25/18
+0.688,0.688,3,-5.84,1,0.0357,0.3,0.0,0.0982,0.451,114.011,193321,4,74,edm**pop**pop dance**tropical house,Kygo,6/25/18
+0.813,0.488,11,-7.737,0,0.257,0.187,0.000132,0.231,0.688,139.983,244133,4,77,pop**r&b**urban contemporary,The Carters,6/25/18
+0.506,0.693,0,-7.265,0,0.0412,0.584,9.58e-05,0.0891,0.221,139.912,216420,4,78,dance pop**dutch edm**edm**pop**pop dance**progressive house**tropical house,Martin Garrix,6/25/18
+0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,4,80,emo rap**miami hip hop,XXXTENTACION,6/25/18
+0.592,0.569,10,-6.374,1,0.0634,0.12,1.75e-05,0.251,0.562,135.414,285200,4,84,pop**r&b**urban contemporary,The Carters,6/25/18
+0.552,0.698,8,-4.817,1,0.0306,0.294,0.000103,0.0905,0.6,90.006,202067,4,85,contemporary country**country**country road,Jason Aldean,6/25/18
+0.912,0.533,1,-5.587,1,0.0618,0.092,1.48e-06,0.174,0.208,119.922,233680,4,95,pop**r&b**urban contemporary,The Carters,6/25/18
+0.442,0.71,7,-5.142,1,0.684,0.0264,0.0,0.618,0.508,205.116,167908,4,96,conscious hip hop**east coast hip hop**gangster rap**hardcore hip hop**hip hop**queens hip hop**rap,Nas,6/25/18
+0.75,0.573,10,-8.391,0,0.0779,0.137,1.89e-05,0.133,0.303,143.948,344293,4,99,pop**r&b**urban contemporary,The Carters,6/25/18
+0.397,0.303,1,-10.413,1,0.11,0.798,4.16e-06,0.0824,0.17,170.22,197893,3,58,dance pop**pop**post-teen pop,Demi Lovato,7/2/18
+0.594,0.798,4,-5.244,1,0.0844,0.115,0.0,0.143,0.381,142.049,191840,4,65,chicago rap**melodic rap,Juice WRLD,7/2/18
+0.383,0.703,4,-6.988,1,0.228,0.216,5.47e-06,0.131,0.57,88.502,213939,4,88,australian country**australian pop**contemporary country**country**country road,Keith Urban,7/2/18
+0.687,0.845,7,-4.37,1,0.0576,0.1,0.0,0.0452,0.809,87.972,190227,4,92,contemporary country**country**country road**modern country rock,Thomas Rhett,7/2/18
+0.877,0.547,7,-5.705,1,0.18,0.0122,1.51e-05,0.028,0.687,99.034,228373,4,95,dance pop**pop,Ariana Grande,7/2/18
+0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,222653,4,97,dance pop**edm**pop**pop dance**tropical house**uk dance**uk funky,Clean Bandit,7/2/18
+0.912,0.412,7,-8.074,1,0.123,0.0165,0.0126,0.104,0.423,154.983,238614,4,2,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,217925,4,6,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.414,0.677,1,-5.12,1,0.254,0.0248,0.0,0.0793,0.0853,172.521,302173,4,8,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.822,0.318,10,-12.391,1,0.0575,0.493,0.0128,0.11,0.138,102.998,245787,4,9,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.754,0.575,4,-8.393,0,0.0682,0.045,0.00131,0.276,0.491,86.009,205147,4,13,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.758,0.474,1,-8.72,1,0.147,0.0152,0.0,0.116,0.0542,76.061,184960,4,14,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.555,0.596,9,-9.09,0,0.375,0.133,0.0,0.123,0.145,77.324,136187,4,17,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.761,0.598,10,-7.249,0,0.182,0.126,0.0,0.0839,0.446,173.897,163974,4,18,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.758,0.491,11,-9.877,1,0.138,0.00354,6.5e-06,0.292,0.334,140.121,223240,4,20,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.527,0.689,2,-7.87,1,0.741,0.161,0.0,0.498,0.31,170.538,195720,4,21,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.486,0.849,1,-5.432,1,0.246,0.0481,0.0,0.143,0.519,152.086,216333,4,27,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.776,0.482,1,-11.269,1,0.0357,0.477,0.0456,0.11,0.134,136.008,247893,4,28,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.889,0.372,7,-10.254,0,0.357,0.013,0.0,0.184,0.123,133.997,162800,4,30,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.764,0.271,0,-5.697,1,0.0414,0.037,0.0,0.175,0.0371,116.019,262453,4,32,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.708,0.547,1,-7.607,1,0.314,0.727,0.0,0.159,0.549,83.8,226907,4,36,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.85,0.473,10,-5.747,0,0.209,0.117,0.0103,0.108,0.38,85.454,157605,4,37,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.687,0.218,9,-13.539,0,0.0388,0.85,0.000125,0.106,0.269,91.991,206027,4,38,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.687,0.429,2,-13.075,1,0.192,0.0407,0.0,0.142,0.336,141.966,289560,4,41,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.807,0.319,0,-8.152,0,0.0581,0.133,0.000338,0.101,0.299,94.992,182080,4,42,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.657,0.571,2,-12.519,1,0.139,0.11,0.00123,0.0735,0.622,167.958,207307,4,51,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.5,0.449,0,-10.977,1,0.442,0.422,7.96e-06,0.115,0.104,144.206,219960,1,56,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.558,0.414,10,-7.355,0,0.358,0.405,0.0,0.36,0.318,127.094,309560,4,57,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,7/9/18
+0.592,0.571,1,-7.132,1,0.174,0.172,0.0,0.106,0.424,104.95,176076,4,63,dance pop**pop**pop r&b**pop rap**r&b**urban contemporary,Queen Naija,7/9/18
+0.57,0.684,6,-7.054,1,0.0465,0.136,0.0,0.205,0.531,89.012,213183,4,76,australian country**australian pop**contemporary country,Morgan Evans,7/9/18
+0.471,0.897,9,-2.27,1,0.0597,0.193,0.0,0.196,0.719,159.958,216093,4,86,contemporary country**country**country road,Luke Bryan,7/9/18
+0.758,0.867,11,-5.087,1,0.0475,0.152,0.0,0.308,0.964,102.018,166573,4,93,contemporary country**country**country road,Old Dominion,7/9/18
+0.353,0.753,1,-6.277,0,0.74,0.0833,0.0,0.383,0.432,191.142,193627,4,99,canadian contemporary r&b**canadian pop**dance pop**electropop**pop**post-teen pop,Alessia Cara,7/9/18
+0.884,0.579,2,-6.847,1,0.299,0.064,2.38e-06,0.182,0.313,144.973,176630,4,53,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,7/16/18
+0.62,0.61,11,-8.329,0,0.0373,0.00849,0.162,0.205,0.235,127.052,238560,4,60,modern rock**rock,Twenty One Pilots,7/16/18
+0.875,0.644,1,-6.554,1,0.222,0.267,0.0,0.125,0.788,139.086,240682,4,65,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,7/16/18
+0.903,0.503,11,-9.188,0,0.335,0.0744,2.09e-05,0.125,0.203,125.0,181894,4,71,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,7/16/18
+0.851,0.702,1,-4.172,1,0.268,0.0854,0.0,0.374,0.179,126.94,215839,4,73,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,7/16/18
+0.868,0.548,1,-7.864,1,0.171,0.233,2.67e-06,0.181,0.557,139.999,204311,4,76,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,7/16/18
+0.734,0.493,0,-7.528,1,0.308,0.0467,0.0,0.0477,0.562,86.043,233750,4,79,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,7/16/18
+0.933,0.488,1,-9.327,0,0.149,0.0106,0.00107,0.0958,0.21,142.064,175775,4,83,emo rap**miami hip hop**rap**social media pop**trap**vapor trap,Lil Pump,7/16/18
+0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,215760,4,88,big room**brostep**dance pop**dutch edm**edm**house**pop**pop dance**slap house**trance**tropical house,Tiesto,7/16/18
+0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,197547,4,11,dance pop**pop,Ariana Grande,7/23/18
+0.76,0.579,0,-7.374,1,0.0567,0.0127,0.00344,0.106,0.129,100.011,213600,4,44,atl hip hop**hip hop**pop**pop rap**rap,Childish Gambino,7/23/18
+0.494,0.632,5,-6.89,1,0.0342,0.682,0.0,0.0869,0.0797,147.873,274693,4,53,ccm**christian alternative rock**christian music**worship,Lauren Daigle,7/23/18
+0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,173800,4,56,electropop**pop**pop rap,benny blanco,7/23/18
+0.742,0.579,0,-5.024,1,0.202,0.0381,0.0,0.0952,0.502,144.994,258475,4,68,chicago rap**melodic rap,Juice WRLD,7/23/18
+0.711,0.796,10,-5.87,1,0.0341,0.0716,0.0045,0.262,0.901,109.991,208733,4,71,contemporary country**country**country road**modern country rock,Eric Church,7/23/18
+0.877,0.477,9,-7.379,0,0.0587,0.307,0.0,0.0929,0.552,127.023,226743,4,72,dance pop**hip hop**pittsburgh rap**pop rap**rap**southern hip hop**trap,Wiz Khalifa,7/23/18
+0.916,0.493,1,-7.371,0,0.162,0.12,2.63e-06,0.211,0.327,140.057,195591,4,73,dance pop**hip hop**pittsburgh rap**pop rap**rap**southern hip hop**trap,Wiz Khalifa,7/23/18
+0.728,0.602,9,-7.748,0,0.185,0.0699,7.01e-06,0.318,0.328,140.081,225040,4,79,modern rock**rock,Twenty One Pilots,7/23/18
+0.666,0.728,7,-5.808,1,0.0419,0.00175,4.26e-06,0.0429,0.51,122.996,204878,4,84,indie poptimism**modern alternative rock**modern rock**pop rock**rock,lovelytheband,7/23/18
+0.597,0.721,9,-6.422,1,0.0356,0.0362,0.0,0.0832,0.437,132.054,149293,4,85,contemporary country**country**country road**modern country rock,Dylan Scott,7/23/18
+0.709,0.264,1,-17.696,0,0.186,0.268,0.0,0.24,0.341,133.858,219437,4,87,pop r&b,TK Kravitz,7/23/18
+0.817,0.646,4,-5.12,0,0.249,0.0152,0.0,0.125,0.835,162.898,213080,4,90,indie pop rap**oakland hip hop**pop**pop rap**rap,G-Eazy,7/23/18
+0.685,0.508,0,-6.4,1,0.0987,0.193,0.0,0.139,0.315,99.063,217287,4,94,edm**pop**pop dance**tropical house,Kygo,7/23/18
+0.931,0.387,1,-9.127,1,0.412,0.088,0.0,0.136,0.376,125.978,179405,4,4,emo rap**rap,6ix9ine,7/30/18
+0.704,0.611,2,-6.112,1,0.0409,0.217,0.0,0.0812,0.22,100.0,189467,4,37,modern rock**pop**rock,Imagine Dragons,7/30/18
+0.514,0.693,9,-5.868,1,0.408,0.177,0.0,0.351,0.287,110.568,240640,3,60,chicago rap**conscious hip hop**hip hop**pop rap**rap,Chance the Rapper,7/30/18
+0.746,0.825,1,-4.666,1,0.169,0.0142,0.0107,0.121,0.584,152.914,204150,4,77,dance pop**hip pop**pop**post-teen pop**r&b**urban contemporary,Ciara,7/30/18
+0.524,0.364,7,-10.209,1,0.0367,0.808,0.0,0.1,0.436,75.24,209831,4,81,canadian contemporary r&b**pop**r&b,Daniel Caesar,7/30/18
+0.6,0.688,5,-8.339,0,0.201,0.159,1.29e-05,0.409,0.0793,99.977,156600,4,90,israeli pop,Dennis Lloyd,7/30/18
+0.678,0.533,4,-10.485,1,0.186,0.462,0.219,0.139,0.323,150.455,180953,4,93,art pop**electropop**pop,Billie Eilish,7/30/18
+0.513,0.661,5,-6.419,1,0.24,0.161,0.0,0.246,0.179,94.791,209213,4,97,hip hop**pop rap**rap,NF,7/30/18
+0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,260000,5,5,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,8/6/18
+0.546,0.871,10,-5.81,1,0.148,0.139,8.28e-05,0.104,0.303,189.723,198107,4,80,conscious hip hop**dmv rap**hip hop**pop rap**rap,Logic,8/6/18
+0.669,0.711,8,-6.758,1,0.033,0.00217,0.0,0.466,0.544,110.01,172747,4,87,dance pop**edm**electropop**pop**pop dance**tropical house,The Chainsmokers,8/6/18
+0.803,0.648,4,-9.185,0,0.198,0.0288,0.0,0.0904,0.538,131.923,219552,4,92,dfw rap**gangster rap**hip hop**houston rap**pop rap**rap**southern hip hop**trap,Yella Beezy,8/6/18
+0.843,0.546,8,-7.714,1,0.464,0.0195,0.0,0.374,0.427,159.104,215533,4,99,cali rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,YG,8/6/18
+0.499,0.797,2,-3.77,1,0.0554,0.199,0.0,0.0933,0.408,176.024,211768,4,100,contemporary country**heartland rock,Mitchell Tenpenny,8/6/18
+0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,312820,4,4,rap**slap house,Travis Scott,8/13/18
+0.487,0.789,8,-3.69,1,0.044,0.00947,4.05e-06,0.189,0.0564,150.007,270715,4,8,rap**slap house,Travis Scott,8/13/18
+0.428,0.403,5,-5.914,0,0.209,0.229,0.0,0.22,0.133,95.387,180183,5,24,rap**slap house,Travis Scott,8/13/18
+0.785,0.554,0,-6.571,1,0.0409,0.283,3.4e-06,0.116,0.144,128.047,150043,4,25,rap**slap house,Travis Scott,8/13/18
+0.607,0.609,0,-5.978,0,0.291,0.389,1.6e-05,0.111,0.556,74.946,185610,4,26,rap**slap house,Travis Scott,8/13/18
+0.588,0.567,4,-3.738,0,0.0628,0.221,0.0,0.135,0.113,150.009,338438,4,27,rap**slap house,Travis Scott,8/13/18
+0.741,0.645,11,-5.116,0,0.0963,0.192,0.0,0.163,0.488,149.07,231964,4,30,rap**slap house,Travis Scott,8/13/18
+0.731,0.811,1,-3.225,1,0.0712,0.0204,0.0,0.411,0.426,147.045,218284,4,31,rap**slap house,Travis Scott,8/13/18
+0.712,0.481,4,-5.415,0,0.0487,0.173,0.0,0.241,0.062,140.0,196138,4,36,rap**slap house,Travis Scott,8/13/18
+0.804,0.763,2,-5.48,1,0.0519,0.0678,0.0,0.368,0.0585,136.052,156886,4,41,rap**slap house,Travis Scott,8/13/18
+0.834,0.731,10,-5.603,0,0.0566,0.0462,0.0,0.0731,0.681,140.001,176720,4,43,rap**slap house,Travis Scott,8/13/18
+0.46,0.686,0,-5.948,0,0.0367,0.00146,0.0,0.375,0.252,148.054,145588,4,47,rap**slap house,Travis Scott,8/13/18
+0.7,0.46,4,-8.111,0,0.0661,0.142,4.81e-05,0.111,0.286,151.901,142969,4,48,rap**slap house,Travis Scott,8/13/18
+0.689,0.723,0,-4.052,0,0.0836,0.0985,0.0,0.158,0.288,160.042,217828,4,53,rap**slap house,Travis Scott,8/13/18
+0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,180000,4,60,dance pop**electropop**pop,Bazzi,8/13/18
+0.81,0.582,5,-5.098,0,0.125,0.0862,0.00681,0.207,0.503,95.004,209116,4,68,rap**slap house,Travis Scott,8/13/18
+0.477,0.61,11,-5.628,0,0.144,0.225,0.0,0.107,0.358,79.882,213993,4,79,dance pop**pop**pop r&b**pop rap**r&b**uk contemporary r&b**urban contemporary,Ella Mai,8/13/18
+0.665,0.651,1,-5.515,1,0.156,0.0414,0.0,0.0896,0.237,163.935,175755,4,87,chicago rap**melodic rap,Juice WRLD,8/13/18
+0.85,0.787,8,-4.134,0,0.338,0.313,0.0,0.194,0.7,87.983,279867,4,18,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,8/20/18
+0.767,0.538,0,-6.044,0,0.052,0.68,0.0,0.192,0.343,81.031,121680,4,46,melodic rap**rap**trap,Trippie Redd,8/20/18
+0.81,0.73,11,-5.209,0,0.223,0.314,0.0,0.105,0.568,157.004,295653,4,58,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,8/20/18
+0.79,0.629,8,-4.055,1,0.142,0.182,7.06e-06,0.338,0.267,170.023,169620,4,72,atl hip hop**hip hop**melodic rap**pop rap**rap**southern hip hop**trap,Quavo,8/20/18
+0.705,0.816,10,-7.046,0,0.32,0.0805,0.0,0.476,0.929,94.211,138872,4,87,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,8/20/18
+0.643,0.638,1,-4.947,0,0.0407,0.204,0.0,0.0707,0.6,82.001,226107,4,90,acoustic pop**neo mellow**pop**pop rock,Jason Mraz,8/20/18
+0.758,0.574,11,-6.889,0,0.0572,0.46,0.00272,0.102,0.261,151.985,191147,4,91,pop**pop rap,Bryce Vine,8/20/18
+0.533,0.907,11,-3.793,1,0.0406,0.0292,0.0,0.386,0.7,150.99,183160,4,95,contemporary country**country,Luke Combs,8/20/18
+0.77,0.715,1,-5.92,1,0.045,0.0373,0.0018,0.0959,0.468,150.027,198280,4,98,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,8/20/18
+0.568,0.656,8,-5.413,1,0.0433,0.0211,1.37e-05,0.213,0.364,100.049,198160,4,22,dance pop**pop,Ariana Grande,8/27/18
+0.721,0.459,4,-6.408,1,0.032,0.248,0.0,0.212,0.46,119.914,208493,4,55,dance pop**pop,Ariana Grande,8/27/18
+0.71,0.614,10,-6.757,0,0.0431,0.186,0.0,0.0974,0.658,148.152,172107,4,62,dance pop**pop,Ariana Grande,8/27/18
+0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,214290,4,63,brostep**edm**pop**pop dance**progressive electro house,Marshmello,8/27/18
+0.781,0.768,11,-5.991,1,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,213309,4,65,dance pop**edm**electro house**house**pop**pop rap**progressive house**uk dance,Calvin Harris,8/27/18
+0.831,0.485,10,-6.677,0,0.15,0.375,1.47e-05,0.118,0.622,80.022,245667,4,72,dance pop**pop,Ariana Grande,8/27/18
+0.458,0.897,9,-4.879,1,0.0402,0.0183,0.0,0.174,0.728,160.131,212067,4,77,contemporary country**country**country road**modern country rock,Russell Dickerson,8/27/18
+0.938,0.5,4,-10.08,0,0.144,0.00183,0.0,0.077,0.462,140.011,201707,4,78,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/18
+0.708,0.454,1,-7.07,1,0.0395,0.0217,0.0,0.073,0.24,110.963,189507,4,87,dance pop**pop,Ariana Grande,8/27/18
+0.652,0.31,4,-10.212,1,0.0509,0.43,1.16e-05,0.182,0.304,119.913,73813,4,99,dance pop**pop,Ariana Grande,8/27/18
+0.734,0.855,9,-3.211,1,0.118,0.00481,0.0,0.123,0.422,126.035,222732,4,11,k-pop**k-pop boy group,BTS,9/3/18
+0.722,0.88,4,-3.989,0,0.24,0.21,0.0,0.324,0.79,92.024,200170,4,69,baton rouge rap**trap,YoungBoy Never Broke Again,9/3/18
+0.653,0.859,0,-3.048,1,0.0449,0.212,0.0,0.111,0.706,174.038,218387,4,72,latin**puerto rican pop**reggaeton**trap latino,Ozuna,9/3/18
+0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,183907,4,82,rap**trap**underground hip hop**vapor trap,Sheck Wes,9/3/18
+0.485,0.306,0,-8.431,1,0.0409,0.794,0.0,0.122,0.224,203.729,207267,4,86,contemporary country**country**country road**modern country rock,Chris Janson,9/3/18
+0.732,0.878,1,-3.253,1,0.13,0.0984,0.0,0.103,0.653,121.993,192797,4,87,dance pop**pop**viral pop,Charlie Puth,9/3/18
+0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030,3,90,complextro**dance pop**edm**electro house**electropop**german techno**pop**pop dance**tropical house,Zedd,9/3/18
+0.876,0.786,10,-4.884,0,0.306,0.0627,0.0,0.127,0.575,153.068,244679,4,6,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.939,0.551,1,-9.126,1,0.291,0.0311,0.0,0.192,0.42,118.552,337941,4,8,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.83,0.546,1,-5.716,1,0.295,0.227,0.0,0.112,0.535,182.973,262494,4,12,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.78,0.808,2,-5.175,1,0.484,0.112,0.0,0.329,0.642,79.982,216029,4,16,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.809,0.737,1,-5.186,1,0.108,0.0441,0.0,0.341,0.367,80.025,226938,4,23,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.904,0.756,10,-3.746,1,0.32,0.0692,0.0,0.339,0.342,140.005,288087,4,24,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.635,0.902,0,-3.559,1,0.109,0.172,0.0,0.125,0.286,102.063,217822,4,30,emo rap**rap,6ix9ine,9/10/18
+0.907,0.64,6,-6.542,1,0.354,0.261,0.0,0.0785,0.803,120.995,222477,4,39,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.616,0.684,7,-6.032,1,0.311,0.0305,0.0,0.376,0.312,179.503,309638,4,42,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.749,0.794,0,-5.063,1,0.064,0.0193,0.0,0.543,0.46,135.959,269554,4,49,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.55,0.596,7,-8.214,1,0.134,0.162,0.00481,0.0805,0.253,165.736,297404,4,54,atl hip hop**hip hop**pop**pop rap**rap,Childish Gambino,9/10/18
+0.65,0.639,8,-5.962,1,0.458,0.0942,0.0,0.135,0.563,139.226,150802,4,65,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.696,0.634,9,-6.918,0,0.281,0.244,0.0,0.437,0.728,89.973,142192,4,67,detroit hip hop**hip hop**rap,Eminem,9/10/18
+0.434,0.831,8,-4.774,1,0.0453,0.0651,0.0,0.119,0.596,156.034,185440,4,97,contemporary country**country**country road**modern country rock,Chris Young,9/10/18
+0.901,0.522,2,-8.304,1,0.33,0.0114,0.0,0.259,0.329,104.053,127947,4,6,chicago rap**rap,Kanye West,9/17/18
+0.895,0.839,0,-4.512,1,0.227,0.217,3e-06,0.239,0.756,149.951,286117,4,13,ohio hip hop,Machine Gun Kelly,9/17/18
+0.52,0.538,1,-8.109,1,0.206,0.367,0.00187,0.119,0.177,141.894,345133,4,33,hip hop**pittsburgh rap**rap,Mac Miller,9/17/18
+0.69,0.462,8,-8.054,1,0.13,0.343,0.00218,0.113,0.325,157.655,245640,4,70,hip hop**pittsburgh rap**rap,Mac Miller,9/17/18
+0.272,0.238,2,-12.148,0,0.0349,0.89,0.00925,0.275,0.119,83.507,161840,4,91,hip hop**pittsburgh rap**rap,Mac Miller,9/17/18
+0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,176133,4,94,latin**puerto rican pop**reggaeton**trap latino,Ozuna,9/17/18
+0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,238173,4,96,edm,Silk City,9/17/18
+0.893,0.651,0,-8.647,0,0.367,0.0995,0.0,0.371,0.6,105.835,253580,4,3,detroit hip hop**hip hop**rap,Eminem,9/24/18
+0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,145543,4,28,atl hip hop**atl trap**rap**trap,Lil Baby,9/24/18
+0.8,0.578,4,-5.144,0,0.0485,0.00381,0.0,0.359,0.367,143.01,204665,4,30,atl hip hop**dirty south rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,Gucci Mane,9/24/18
+0.85,0.785,8,-4.963,0,0.345,0.0367,0.0,0.155,0.718,145.063,343099,4,38,melodic rap**philly rap**rap**trap,Lil Uzi Vert,9/24/18
+0.596,0.552,0,-10.278,0,0.097,0.0765,0.334,0.104,0.112,97.949,229320,4,45,pop**pop r&b,Khalid,9/24/18
+0.669,0.574,4,-6.442,0,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,4,47,emo rap**lgbtq+ hip hop,Lil Peep,9/24/18
+0.61,0.458,9,-11.336,1,0.36,0.696,0.000103,0.0852,0.246,192.099,240342,4,76,alternative r&b**atl hip hop**hip hop**melodic rap**pop rap**r&b**rap**trap,6LACK,9/24/18
+0.792,0.743,7,-2.806,1,0.0851,0.107,0.0,0.183,0.742,150.024,195637,4,96,melodic rap**pop rap**rap**trap**vapor trap,Flipp Dinero,9/24/18
+0.629,0.464,4,-8.72,1,0.0334,0.75,0.0,0.0853,0.523,156.051,195053,4,97,black americana**contemporary country**country pop,Jimmie Allen,9/24/18
+0.699,0.558,11,-7.622,1,0.0603,0.462,0.0,0.116,0.493,79.992,165000,4,100,melodic rap**rap**rap conscient**trap**vapor trap,Lil Mosey,9/24/18
+0.765,0.704,5,-4.589,0,0.127,0.0215,0.0,0.227,0.498,147.055,192172,4,47,hip hop**pop rap**rap**southern hip hop**trap,French Montana,10/1/18
+0.578,0.694,5,-5.351,1,0.0706,0.0112,0.0,0.102,0.268,129.921,220850,4,64,canadian pop**candy pop**dance pop**pop**post-teen pop,Avril Lavigne,10/1/18
+0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,197947,4,74,dance pop**edm**electropop**pop**pop dance**tropical house,The Chainsmokers,10/1/18
+0.796,0.68,10,-4.853,0,0.353,0.0886,0.0,0.268,0.565,164.932,190466,4,92,upstate ny rap,Pardison Fontaine,10/1/18
+0.565,0.855,5,-4.189,1,0.0557,0.0445,0.0,0.32,0.852,74.98,208893,4,96,contemporary country**country**texas country,Maren Morris,10/1/18
+0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,229773,4,8,k-pop**k-pop boy group,BTS,4/23/19
+0.729,0.603,6,-6.736,0,0.0666,0.0948,0.0,0.113,0.207,134.972,243976,4,28,melodic rap**philly rap**rap**trap,Lil Uzi Vert,4/23/19
+0.448,0.871,7,-4.911,1,0.0349,0.00182,1.72e-05,0.0832,0.404,156.049,274615,4,66,alternative metal**groove metal**nu metal,Five Finger Death Punch,4/23/19
+0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,157202,4,68,dance pop**edm**pop**pop dance,Avicii,4/23/19
+0.852,0.432,1,-8.04,0,0.501,0.0599,0.0,0.146,0.258,140.042,236571,4,76,melodic rap**philly rap**rap**trap,Lil Uzi Vert,4/23/19
+0.6,0.851,11,-4.645,1,0.0388,0.00566,9.78e-06,0.0891,0.727,98.007,186119,4,81,contemporary country**country**country road**heartland rock**modern country rock**texas country,Eli Young Band,4/23/19
+0.638,0.703,7,-7.874,1,0.444,0.0104,0.0,0.132,0.261,105.766,226321,4,95,k-pop**k-pop boy group,BTS,4/23/19
+0.577,0.833,5,-3.337,1,0.0695,0.0137,0.0,0.121,0.58,107.936,169667,4,96,modern rock,Panic! At The Disco,4/23/19
+0.694,0.664,2,-4.649,1,0.05,0.639,0.0,0.0929,0.676,95.941,281500,4,17,comedy rap**pop rap**rap,Lil Dicky,4/30/19
+0.71,0.842,6,-5.424,0,0.0944,0.0686,0.0,0.337,0.435,102.994,240777,4,75,dance pop**pop**r&b,Beyonce,4/30/19
+0.532,0.704,5,-3.895,0,0.26,0.093,0.0,0.184,0.591,96.004,186344,4,90,hip hop**pop rap**rap**southern hip hop**trap,French Montana,4/30/19
+0.423,0.813,9,-5.011,1,0.0507,0.218,1.62e-06,0.0732,0.421,173.995,211720,4,93,contemporary country**country**country road**modern country rock,Brett Eldredge,4/30/19
+0.894,0.511,2,-4.768,1,0.421,0.0251,0.0,0.14,0.567,120.077,176632,4,96,memphis hip hop,NLE Choppa,4/30/19
+0.391,0.715,0,-4.516,1,0.0495,0.167,0.0,0.183,0.473,149.654,285107,3,100,pop,Taylor Swift,4/30/19
+0.906,0.545,11,-4.977,0,0.344,0.181,0.0,0.091,0.543,139.932,186827,4,67,gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop,ScHoolboy Q,5/7/19
+0.785,0.572,2,-7.504,1,0.123,0.0598,0.0,0.218,0.49,100.016,235284,4,69,latin**puerto rican pop**reggaeton**trap latino,Ozuna,5/7/19
+0.958,0.597,9,-7.092,0,0.111,0.0457,0.0,0.138,0.619,127.931,180453,4,85,gangster rap**hip hop**pop rap**rap**southern hip hop**trap**underground hip hop,ScHoolboy Q,5/7/19
+0.81,0.625,11,-3.593,0,0.071,0.0407,1.53e-06,0.118,0.598,100.019,137448,4,90,brostep**edm**pop**pop dance**progressive electro house,Marshmello,5/7/19
+0.507,0.644,4,-7.485,1,0.0641,0.00413,0.0,0.217,0.172,179.913,211267,4,92,pop**r&b**rap,SZA,5/7/19
+0.739,0.682,2,-3.728,1,0.205,0.129,0.0,0.328,0.634,131.983,199382,4,94,contemporary country**country**country road,Luke Bryan,5/7/19
+0.368,0.321,3,-5.904,1,0.0272,0.769,0.0,0.135,0.0673,139.001,188120,4,96,dance pop**pop,P!nk,5/7/19
+0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,190800,4,2,canadian pop**dance pop**pop**viral pop,Shawn Mendes,5/14/19
+0.694,0.759,10,-5.667,0,0.398,0.137,0.0,0.167,0.77,140.055,245387,4,5,conscious hip hop**dmv rap**hip hop**pop rap**rap,Logic,5/14/19
+0.715,0.624,4,-3.046,0,0.114,0.11,0.0,0.123,0.412,158.087,173325,4,50,dance pop**escape room**minnesota hip hop**pop**trap queen,Lizzo,5/14/19
+0.538,0.863,1,-4.483,1,0.0481,0.0139,0.0,0.0874,0.637,77.001,186733,4,68,contemporary country**country,Luke Combs,5/14/19
+0.88,0.67,2,-5.177,1,0.0468,0.325,4.17e-06,0.0662,0.131,101.008,299227,4,71,cali rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,YG,5/14/19
+0.75,0.567,0,-6.4,1,0.48,0.137,0.0,0.109,0.398,151.895,151574,4,91,melodic rap**pop rap**r&b**rap**trap**vapor trap,PnB Rock,5/14/19
+0.844,0.644,11,-6.273,0,0.0479,0.0828,0.0,0.113,0.591,122.061,169038,4,98,dance pop**electropop**pop,Bazzi,5/14/19
+0.688,0.656,4,-5.541,0,0.276,0.218,0.0,0.115,0.365,160.414,157657,4,99,melodic rap**rap**trap,Roddy Ricch,5/14/19
+0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,219947,4,2,pop**uk pop,Ed Sheeran,5/21/19
+0.485,0.389,0,-10.765,1,0.298,0.799,0.0,0.146,0.391,93.175,209933,4,51,alternative r&b**dance pop**pop**pop rap**r&b**urban contemporary,Jhene Aiko,5/21/19
+0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.799,92.01,266087,4,73,latin**latin hip hop**latin pop**reggaeton**reggaeton flow**trap latino,Lunay,5/21/19
+0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161,4,85,pop**uk pop,Lewis Capaldi,5/21/19
+0.673,0.752,2,-3.572,0,0.0561,0.241,4.51e-05,0.0813,0.797,175.997,201818,4,95,latin**latin hip hop**reggaeton**trap latino,Nicky Jam,5/21/19
+0.767,0.889,7,-2.988,1,0.0963,0.00611,0.0,0.402,0.843,119.93,195145,4,100,dance pop**escape room**minnesota hip hop**pop**trap queen,Lizzo,5/21/19
+0.554,0.498,9,-8.866,1,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,4,13,hip hop**rap,"Tyler, The Creator",5/28/19
+0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,231999,4,15,dance pop**electropop**etherpop**indie poptimism**pop,Halsey,5/28/19
+0.861,0.666,8,-5.18,0,0.343,0.00218,0.0,0.272,0.853,145.041,202625,4,19,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.351,0.956,7,-1.996,1,0.245,0.0949,0.0,0.226,0.446,83.655,176875,4,21,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.639,0.859,9,-2.758,0,0.147,0.135,0.0,0.129,0.566,93.132,221379,4,43,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.479,0.63,7,-5.628,0,0.133,0.0314,0.0,0.073,0.227,117.988,275276,5,44,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.826,0.579,8,-8.241,0,0.0801,0.00881,0.0,0.129,0.431,121.075,212013,4,51,hip hop**rap,"Tyler, The Creator",5/28/19
+0.362,0.714,9,-3.07,0,0.0835,0.269,0.0,0.21,0.309,67.4,206499,4,52,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.614,0.685,10,-3.684,1,0.147,0.0133,0.0,0.313,0.61,94.9,255102,4,57,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.36,0.391,6,-10.6,1,0.0528,0.296,0.000406,0.129,0.162,84.281,177227,4,65,hip hop**rap,"Tyler, The Creator",5/28/19
+0.467,0.672,10,-7.371,0,0.377,0.00559,0.243,0.607,0.0648,163.1,200693,4,67,hip hop**rap,"Tyler, The Creator",5/28/19
+0.621,0.73,5,-5.414,0,0.107,0.0967,0.000131,0.673,0.464,139.566,195320,4,70,hip hop**rap,"Tyler, The Creator",5/28/19
+0.417,0.689,2,-8.302,0,0.178,0.575,0.0,0.496,0.505,79.568,210253,4,74,hip hop**rap,"Tyler, The Creator",5/28/19
+0.458,0.909,1,-6.553,1,0.487,0.0567,4.26e-06,0.11,0.449,118.227,205627,4,85,hip hop**rap,"Tyler, The Creator",5/28/19
+0.576,0.724,0,-5.147,1,0.0274,0.016,0.0,0.107,0.34,93.029,206598,4,86,contemporary country**country**country dawn**country pop**country road**neo mellow,Lady A,5/28/19
+0.508,0.557,8,-8.967,0,0.0478,0.00235,0.0134,0.588,0.199,77.572,179013,4,88,hip hop**rap,"Tyler, The Creator",5/28/19
+0.515,0.802,2,-2.655,0,0.283,0.18,0.0,0.241,0.279,76.069,153337,4,91,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/28/19
+0.796,0.586,4,-6.946,0,0.147,0.0247,0.0,0.132,0.179,97.981,200107,4,12,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,6/4/19
+0.746,0.787,4,-6.373,1,0.12,0.214,0.0,0.0669,0.607,95.005,206187,4,34,pop**uk pop,Ed Sheeran,6/4/19
+0.562,0.46,5,-4.173,1,0.259,0.476,0.0,0.107,0.623,176.055,158099,4,48,boy band**dance pop**electropop**pop**post-teen pop,5 Seconds of Summer,6/4/19
+0.884,0.936,1,-3.931,1,0.167,0.206,0.0,0.262,0.758,120.004,236501,4,59,boston hip hop**hip hop**pop rap**rap,Joyner Lucas,6/4/19
+0.56,0.736,0,-7.306,1,0.0446,0.341,9.81e-06,0.155,0.824,79.843,195147,4,76,contemporary country**country**country road**modern country rock,Eric Church,6/4/19
+0.95,0.624,8,-5.725,0,0.168,0.00126,1.23e-06,0.0715,0.86,135.985,228186,4,94,dfw rap**gangster rap**hip hop**houston rap**pop rap**rap**southern hip hop**trap,Yella Beezy,6/4/19
+0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-06,0.188,0.618,91.98,184436,4,96,latin**reggaeton**reggaeton colombiano,Maluma,6/4/19
+0.526,0.85,10,-4.47,0,0.0313,0.023,0.0,0.0948,0.338,141.973,184173,4,97,contemporary country**country**country road,Jason Aldean,6/4/19
+0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523,4,15,dance pop**pop**post-teen pop,Katy Perry,6/11/19
+0.888,0.525,1,-5.665,1,0.305,0.029,5.68e-06,0.137,0.243,133.983,143792,4,16,dance pop**pop**pop rap**rap,Cardi B,6/11/19
+0.681,0.865,1,-4.132,0,0.0594,0.00464,0.00169,0.149,0.528,91.017,219080,4,54,dance pop**pop**post-teen pop,Miley Cyrus,6/11/19
+0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,217640,4,67,dance pop**edm**electropop**pop**pop dance**tropical house,The Chainsmokers,6/11/19
+0.789,0.786,2,-4.788,1,0.297,0.596,0.0,0.0997,0.39,119.957,248040,4,70,hip hop**pop rap**rap,NF,6/11/19
+0.664,0.848,2,-3.528,1,0.0661,0.00765,0.0,0.149,0.702,136.144,137173,4,91,country road,John Rich,6/11/19
+0.774,0.473,1,-5.122,0,0.0569,0.221,0.0,0.222,0.416,97.953,177253,4,92,pop**pop rap,Bryce Vine,6/11/19
+0.751,0.756,9,-5.453,0,0.0375,0.257,0.0,0.0582,0.644,129.954,162528,4,94,melodic rap**rap**trap,Trippie Redd,6/11/19
+0.572,0.794,2,-3.224,1,0.0455,0.395,0.0,0.23,0.79,148.095,175595,4,97,contemporary country**country**country road**modern country rock,Chris Young,6/11/19
+0.689,0.412,7,-7.523,0,0.0301,0.488,0.00016,0.0659,0.537,126.754,184060,4,99,electropop**pop,SHAED,6/11/19
+0.696,0.454,1,-6.756,0,0.153,0.123,0.0,0.155,0.136,92.928,260640,4,9,dance pop**pop**pop rap**r&b**rap,Chris Brown,6/18/19
+0.554,0.755,2,-6.04,1,0.0319,0.225,0.0,0.301,0.624,77.962,225253,4,62,contemporary country**country,Luke Combs,6/18/19
+0.847,0.678,9,-8.635,1,0.109,0.0669,0.0,0.274,0.811,97.984,200594,4,66,black americana**country rap,Blanco Brown,6/18/19
+0.61,0.624,2,-4.773,1,0.309,0.6,2.12e-06,0.243,0.244,176.169,250534,4,69,latin**reggaeton**trap latino,Bad Bunny,6/18/19
+0.592,0.873,9,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262,4,83,dance pop**edm**pop**pop dance,Avicii,6/18/19
+0.881,0.549,10,-5.589,1,0.272,0.0091,0.0,0.137,0.202,144.019,204520,4,87,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,6/18/19
+0.434,0.314,10,-7.78,0,0.0577,0.786,0.0,0.163,0.347,175.077,178160,4,92,latin**puerto rican pop**reggaeton**trap latino,Ozuna,6/18/19
+0.795,0.496,0,-5.883,1,0.0722,0.108,0.0,0.0645,0.874,94.01,183000,4,93,boy band**dance pop**pop**post-teen pop,Jonas Brothers,6/18/19
+0.551,0.609,7,-8.975,1,0.143,0.368,0.000154,0.192,0.324,139.084,104013,4,98,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,6/18/19
+0.801,0.774,1,-5.125,1,0.157,0.0365,3.03e-06,0.114,0.321,144.988,150760,4,99,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,6/18/19
+0.725,0.79,0,-2.331,1,0.197,0.0711,1.14e-06,0.0602,0.763,175.988,287773,4,100,latin**panamanian pop**reggaeton**trap latino,Sech,6/18/19
+0.771,0.671,2,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026,171360,4,2,pop,Taylor Swift,6/25/19
+0.831,0.502,10,-4.045,0,0.046,0.101,0.0,0.122,0.101,100.541,205427,4,7,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,6/25/19
+0.646,0.899,6,-2.232,1,0.298,0.0337,0.0,0.232,0.685,164.119,219507,4,35,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,6/25/19
+0.761,0.586,0,-5.368,1,0.359,0.0392,0.0,0.0558,0.719,149.804,169147,4,75,hip hop**rap**trap**underground hip hop,Dreamville,6/25/19
+0.552,0.638,1,-7.474,1,0.11,0.387,0.00014,0.374,0.332,167.834,180019,4,80,alternative r&b**viral pop,Joji,6/25/19
+0.433,0.905,11,-2.171,1,0.101,0.00803,0.0,0.337,0.375,148.149,237203,4,92,brostep**edm**pop**pop dance**progressive electro house,Marshmello,6/25/19
+0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,212607,4,97,canadian hip hop**pop,Ali Gatie,6/25/19
+0.537,0.784,3,-4.869,1,0.034,0.0979,0.0,0.224,0.468,137.995,191018,4,100,arkansas country**contemporary country**country**country road**modern country rock**redneck,Justin Moore,6/25/19
+0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,190960,4,2,canadian pop**dance pop**pop**viral pop,Shawn Mendes,7/2/19
+0.703,0.594,5,-6.146,0,0.0752,0.342,0.0,0.123,0.475,153.848,114893,4,16,lgbtq+ hip hop**pop,Lil Nas X,7/2/19
+0.893,0.641,1,-3.051,1,0.272,0.128,8.06e-05,0.086,0.771,94.017,190747,4,20,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,7/2/19
+0.706,0.679,9,-5.614,1,0.0324,0.139,6.98e-05,0.465,0.657,140.081,158707,4,22,lgbtq+ hip hop**pop,Lil Nas X,7/2/19
+0.659,0.625,4,-2.253,1,0.045,0.0644,0.0,0.582,0.442,88.042,181824,4,57,brostep**edm**pop**pop dance**progressive electro house,Marshmello,7/2/19
+0.746,0.497,1,-5.785,1,0.149,0.00944,8.6e-05,0.101,0.25,160.051,157816,4,72,atl hip hop**atl trap**rap**trap,Lil Baby,7/2/19
+0.921,0.635,1,-4.904,1,0.416,0.0218,0.0,0.0946,0.549,130.028,192540,4,98,houston rap**pop**trap queen,Megan Thee Stallion,7/2/19
+0.661,0.723,5,-6.976,0,0.0566,0.179,1.23e-05,0.14,0.316,113.778,163805,4,100,dance pop**dutch edm**edm**pop**pop dance**progressive house**tropical house,Martin Garrix,7/2/19
+0.679,0.369,2,-8.506,1,0.0541,0.885,4.46e-06,0.314,0.751,99.525,186853,4,26,pop**uk pop,Ed Sheeran,7/9/19
+0.693,0.678,8,-7.159,1,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,228267,4,63,edm**pop**pop dance**tropical house,Kygo,7/9/19
+0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,222347,4,65,latin**reggaeton**reggaeton colombiano**trap latino,J Balvin,7/9/19
+0.817,0.814,2,-3.985,1,0.185,0.32,0.0,0.152,0.247,109.994,196800,4,78,hip hop**pop rap**rap,NF,7/9/19
+0.899,0.811,2,-6.294,1,0.258,0.000677,0.0,0.0672,0.587,105.038,126446,4,81,cali rap**dance pop**pop**pop rap**r&b**trap queen,Saweetie,7/9/19
+0.843,0.39,2,-7.899,1,0.0846,0.178,0.0,0.137,0.495,129.972,160627,4,84,pop rap,Y2K,7/9/19
+0.548,0.653,5,-3.875,1,0.081,0.456,0.0,0.103,0.163,150.068,174853,4,3,dfw rap**melodic rap**rap,Post Malone,7/16/19
+0.691,0.64,0,-6.441,1,0.369,0.511,0.0,0.409,0.163,138.672,202040,4,44,hip hop**rap**trap**underground hip hop,Dreamville,7/16/19
+0.631,0.796,1,-5.35,1,0.0401,0.000245,0.0108,0.38,0.596,92.47,209120,4,60,pop**uk pop,Ed Sheeran,7/16/19
+0.642,0.647,7,-6.312,0,0.428,0.517,0.0,0.0649,0.664,120.749,217867,4,75,hip hop**rap**trap**underground hip hop,Dreamville,7/16/19
+0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,309120,4,95,latin**reggaeton**trap latino,Jhay Cortez,7/16/19
+0.593,0.81,1,-5.733,1,0.0625,0.602,0.0,0.119,0.712,144.011,207933,4,98,contemporary country**country**country road**modern country rock,Chris Lane,7/16/19
+0.716,0.823,5,-5.313,0,0.0495,0.132,0.0,0.361,0.91,151.957,161747,4,37,pop**uk pop,Ed Sheeran,7/23/19
+0.857,0.621,9,-6.376,0,0.0825,0.148,0.0,0.0865,0.668,97.989,204467,4,53,pop**uk pop,Ed Sheeran,7/23/19
+0.852,0.666,11,-6.923,0,0.184,0.135,0.0,0.798,0.726,91.046,207760,4,57,pop**uk pop,Ed Sheeran,7/23/19
+0.669,0.56,5,-5.003,1,0.0251,0.0821,0.0,0.0703,0.49,95.0,199413,4,83,contemporary country**country**country road,Kenny Chesney,7/23/19
+0.67,0.661,3,-6.798,0,0.0466,0.704,0.0,0.217,0.425,119.985,201730,4,90,black americana**contemporary country**country road,Kane Brown,7/23/19
+0.677,0.688,0,-4.058,0,0.0633,0.138,0.0,0.114,0.198,98.049,240429,4,92,hip hop**pop rap**rap,NF,7/23/19
+0.614,0.884,0,-4.019,1,0.0402,0.00122,0.0,0.077,0.721,100.531,202853,4,96,contemporary country**country**country dawn**country road**oklahoma country**post-teen pop,Carrie Underwood,7/23/19
+0.443,0.406,5,-9.064,1,0.0391,0.00903,0.0,0.0979,0.0558,80.896,273120,4,98,dance pop**pop**r&b,Beyonce,7/23/19
+0.565,0.242,2,-8.367,1,0.0318,0.762,9.3e-06,0.285,0.237,81.657,243267,4,99,pop**uk pop,Ed Sheeran,7/23/19
+0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,202205,5,29,dance pop**pop**uk pop,Sam Smith,7/30/19
+0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,145543,4,42,atl hip hop**atl trap**rap**trap,Lil Baby,7/30/19
+0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,301714,4,52,latin**reggaeton**reggaeton flow**trap boricua**trap latino,Anuel AA,7/30/19
+0.292,0.574,0,-9.375,1,0.0401,0.12,0.00569,0.0663,0.166,124.344,211240,4,69,pop,Taylor Swift,7/30/19
+0.657,0.768,8,-4.628,1,0.0507,0.108,0.0,0.144,0.759,75.025,186223,4,82,dance pop**edm**electropop**indietronica**metropopolis**pop**uk pop,Ellie Goulding,7/30/19
+0.608,0.709,7,-6.175,1,0.374,0.119,0.0,0.337,0.709,105.742,272069,4,90,dance pop**pop**r&b,Beyonce,7/30/19
+0.809,0.545,7,-6.678,1,0.0735,0.392,0.0,0.151,0.244,97.008,180435,4,94,cali rap**hip hop**pop rap**rap**southern hip hop**trap,Mustard,7/30/19
+0.502,0.633,1,-5.8,1,0.419,0.00991,0.0,0.389,0.552,83.226,349600,4,39,dirty south rap**gangster rap**hip hop**pop rap**rap**southern hip hop**trap,Rick Ross,8/6/19
+0.899,0.509,9,-8.04,1,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,4,58,chicago rap**conscious hip hop**hip hop**pop rap**rap,Chance the Rapper,8/6/19
+0.635,0.677,10,-5.548,1,0.0909,0.161,0.0,0.154,0.253,94.95,213733,4,64,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,8/6/19
+0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1,209880,4,69,dance pop**edm**electropop**pop**pop dance**tropical house,The Chainsmokers,8/6/19
+0.517,0.813,1,-6.325,1,0.0558,0.0153,0.0,0.106,0.444,83.005,222147,4,82,contemporary country**country**country road,Dierks Bentley,8/6/19
+0.722,0.741,1,-3.72,1,0.19,0.249,0.0,0.151,0.46,162.11,308652,4,85,hip hop**pop rap**rap,NF,8/6/19
+0.869,0.59,11,-8.214,1,0.257,0.07,0.0,0.236,0.479,107.934,151147,4,89,cali rap**trap,Blueface,8/6/19
+0.767,0.884,2,-3.674,1,0.161,0.028,0.0,0.103,0.717,123.01,208238,4,94,chicago rap**conscious hip hop**hip hop**pop rap**rap,Chance the Rapper,8/6/19
+0.606,0.655,6,-6.328,1,0.402,0.139,0.0,0.103,0.696,159.824,236686,4,95,chicago rap**conscious hip hop**hip hop**pop rap**rap,Chance the Rapper,8/6/19
+0.4,0.795,10,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,186107,4,8,dance pop**pop,Ariana Grande,8/13/19
+0.421,0.539,11,-5.456,0,0.274,0.779,0.0,0.111,0.523,89.177,281519,3,58,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/13/19
+0.631,0.788,4,-7.142,0,0.102,0.371,0.000317,0.108,0.544,157.769,240957,4,61,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/13/19
+0.543,0.787,8,-6.52,1,0.241,0.248,0.0,0.0778,0.343,173.702,189397,4,67,social media pop,Sarah Jeffery,8/13/19
+0.423,0.587,6,-6.635,1,0.529,0.765,0.0,0.114,0.33,180.331,253803,4,68,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/13/19
+0.978,0.477,8,-8.159,1,0.155,0.000143,0.0,0.133,0.196,110.002,109091,4,82,cali rap,Ambjaay,8/13/19
+0.338,0.729,6,-6.419,0,0.102,0.758,3.24e-05,0.18,0.543,184.174,283816,4,85,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/13/19
+0.578,0.937,2,-5.685,1,0.0481,0.0294,0.0,0.122,0.479,102.983,191747,4,90,australian country**australian pop**contemporary country**country**country road,Keith Urban,8/13/19
+0.31,0.584,7,-10.091,1,0.042,0.000827,0.512,0.0528,0.16,86.913,620101,4,93,alternative metal**alternative rock**art rock**nu metal**progressive metal**progressive rock**rock,TOOL,8/13/19
+0.542,0.797,9,-4.45,0,0.0379,0.00111,0.0,0.0906,0.593,113.95,204720,4,94,contemporary country**country**country road**modern country rock,Cole Swindell,8/13/19
+0.733,0.361,1,-11.129,1,0.135,0.348,0.000285,0.0942,0.0361,94.902,353698,4,95,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/13/19
+0.496,0.775,11,-5.304,1,0.0411,0.000927,0.0,0.14,0.478,138.165,202587,4,97,contemporary country**country**country road**modern country rock**redneck,Brantley Gilbert,8/13/19
+0.6,0.698,9,-5.86,1,0.0355,0.0724,1.64e-06,0.113,0.57,140.032,210373,4,99,arkansas country**contemporary country**country pop,Matt Stell,8/13/19
+0.872,0.814,0,-4.568,1,0.155,0.00485,1.96e-06,0.214,0.57,98.985,199427,4,11,houston rap**pop**trap queen,Megan Thee Stallion,8/20/19
+0.787,0.619,9,-7.32,1,0.17,0.181,0.0,0.323,0.824,124.09,127843,4,64,melodic rap**rap**trap,Trippie Redd,8/20/19
+0.846,0.631,5,-5.547,1,0.1,0.203,0.0,0.455,0.602,115.999,161963,4,81,dance pop**pop**post-teen pop,Katy Perry,8/20/19
+0.72,0.87,3,-5.155,0,0.142,0.0682,0.0,0.144,0.802,160.039,188218,4,84,pop**post-teen pop**social media pop,Dove Cameron,8/20/19
+0.597,0.733,1,-6.017,1,0.41,0.134,0.0,0.159,0.639,171.016,214035,4,86,hip hop**pop**pop rap**r&b**rap**southern hip hop**trap**urban contemporary,Wale,8/20/19
+0.669,0.557,8,-8.835,0,0.0498,0.0574,0.0,0.0662,0.553,144.043,186944,4,87,melodic rap**rap**trap,Trippie Redd,8/20/19
+0.686,0.9,5,-4.406,1,0.0614,0.068,0.0,0.0985,0.962,155.963,206293,4,90,contemporary country**country pop,Runaway June,8/20/19
+0.567,0.515,6,-10.265,0,0.247,0.354,0.0,0.078,0.321,120.1,224000,1,92,brooklyn drill**melodic rap**nyc rap,Lil Tjay,8/20/19
+0.852,0.73,1,-5.803,1,0.0579,0.0219,0.0,0.336,0.394,92.506,157693,4,93,north carolina hip hop**rap,DaBaby,8/20/19
+0.359,0.543,7,-7.582,1,0.0915,0.492,1.57e-05,0.118,0.453,68.505,221307,4,19,pop,Taylor Swift,8/27/19
+0.855,0.651,0,-8.044,0,0.235,0.063,0.0,0.0772,0.559,111.997,193027,4,26,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.974,0.596,6,-8.888,1,0.184,0.0976,0.0,0.151,0.892,111.959,149040,4,32,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,193837,4,33,dance pop**pop**post-teen pop**r&b**urban contemporary,Normani,8/27/19
+0.53,0.538,5,-6.672,1,0.0335,0.17,2.83e-06,0.248,0.288,148.051,233654,4,47,dance pop**pop**post-teen pop,Miley Cyrus,8/27/19
+0.961,0.438,7,-7.877,1,0.31,0.0431,0.0,0.139,0.412,124.018,251080,4,55,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.611,0.539,7,-10.617,1,0.411,0.0485,0.0,0.127,0.627,82.766,207133,4,60,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.93,0.561,0,-8.053,1,0.25,0.101,0.0,0.0992,0.596,140.987,184093,4,61,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.874,0.552,1,-7.951,1,0.271,0.000786,0.286,0.144,0.521,147.043,238027,4,70,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.765,0.556,11,-6.417,1,0.0512,0.275,0.0,0.0824,0.274,111.033,169227,4,78,dance pop**edm**electro house**house**moombahton**ninja**pop**pop dance**tropical house,Diplo,8/27/19
+0.953,0.515,10,-8.546,1,0.0846,0.00389,0.0,0.11,0.351,138.039,209253,4,82,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.785,0.652,0,-2.607,1,0.0668,0.102,0.0,0.0697,0.484,170.024,203093,4,83,dance pop**pop,Doja Cat,8/27/19
+0.974,0.596,6,-8.888,1,0.184,0.0976,0.0,0.151,0.892,111.959,149040,4,84,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.826,0.691,1,-6.557,1,0.129,0.000541,0.0,0.157,0.603,162.966,178240,4,92,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/27/19
+0.637,0.853,1,-4.664,1,0.109,0.216,0.0,0.0357,0.861,93.87,190640,4,99,contemporary country**country**country road**modern country rock,Russell Dickerson,8/27/19
+0.686,0.561,10,-9.929,0,0.191,0.185,0.0,0.114,0.186,148.775,116240,4,100,melodic rap**rap,Lil Tecca,8/27/19
+0.473,0.579,4,-5.824,1,0.0384,0.214,0.0,0.0877,0.255,73.942,297013,4,23,pop,Taylor Swift,9/3/19
+0.664,0.316,5,-10.345,1,0.519,0.298,2.03e-06,0.0812,0.541,92.875,170640,4,28,pop,Taylor Swift,9/3/19
+0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,178427,4,29,pop,Taylor Swift,9/3/19
+0.811,0.719,9,-6.553,1,0.0497,0.0129,1.36e-05,0.0742,0.865,103.979,222400,4,45,pop,Taylor Swift,9/3/19
+0.662,0.747,11,-6.926,0,0.0736,0.028,0.00615,0.138,0.487,150.088,234147,4,49,pop,Taylor Swift,9/3/19
+0.897,0.366,0,-8.029,1,0.0569,0.00889,0.000353,0.0715,0.416,100.003,173387,4,51,pop,Taylor Swift,9/3/19
+0.682,0.919,0,-3.18,0,0.0875,0.256,0.0,0.442,0.535,95.982,159736,4,52,dance pop**escape room**minnesota hip hop**pop**trap queen,Lizzo,9/3/19
+0.824,0.624,0,-9.728,1,0.0827,0.781,0.000189,0.1,0.248,102.012,287267,4,57,pop,Taylor Swift,9/3/19
+0.695,0.71,1,-6.639,1,0.05,0.0246,0.000104,0.133,0.557,157.925,190240,4,62,pop,Taylor Swift,9/3/19
+0.433,0.182,0,-12.566,1,0.0641,0.907,0.0,0.123,0.421,207.476,201587,4,63,pop,Taylor Swift,9/3/19
+0.712,0.732,4,-6.754,1,0.0629,0.454,0.0,0.319,0.313,94.071,198533,4,67,pop,Taylor Swift,9/3/19
+0.756,0.449,9,-8.746,1,0.0344,0.13,0.0,0.114,0.399,111.011,223293,4,75,pop,Taylor Swift,9/3/19
+0.739,0.32,11,-10.862,0,0.239,0.736,0.000147,0.111,0.351,79.97,200307,4,77,pop,Taylor Swift,9/3/19
+0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918,143227,4,87,pop**r&b,Summer Walker,9/3/19
+0.557,0.496,0,-9.602,1,0.0563,0.808,0.000173,0.0772,0.265,149.983,293453,4,89,pop,Taylor Swift,9/3/19
+0.706,0.358,6,-8.331,1,0.0347,0.677,0.0,0.107,0.478,75.991,186240,4,91,contemporary country**country**country road,Old Dominion,9/3/19
+0.737,0.175,10,-9.912,1,0.0401,0.971,0.000337,0.171,0.545,70.008,150440,4,92,pop,Taylor Swift,9/3/19
+0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280,4,7,dfw rap**melodic rap**rap,Post Malone,9/10/19
+0.641,0.559,7,-11.132,0,0.0355,0.404,0.00402,0.0937,0.523,144.982,202193,4,59,art pop**pop,Lana Del Rey,9/10/19
+0.897,0.743,10,-5.446,0,0.222,0.304,4.44e-05,0.137,0.905,134.979,187105,4,69,east coast hip hop**hip hop**rap**trap,A$AP Rocky,9/10/19
+0.619,0.613,0,-5.83,1,0.0796,0.0614,0.0,0.117,0.483,82.419,232733,4,77,dance pop**pop**pop rap**r&b**rap,Chris Brown,9/10/19
+0.563,0.624,8,-8.271,1,0.287,0.0439,0.0,0.111,0.337,152.068,163267,4,80,melodic rap**rap,Lil Tecca,9/10/19
+0.829,0.582,7,-5.721,0,0.0415,0.525,0.0,0.0759,0.51,108.028,109373,4,84,melodic rap**rap,Lil Tecca,9/10/19
+0.684,0.687,2,-4.673,1,0.2,0.0164,0.0,0.253,0.265,184.026,151067,4,89,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/10/19
+0.582,0.846,0,-2.771,1,0.0451,0.022,0.0,0.133,0.736,92.004,165587,4,90,contemporary country**country**country road**modern country rock,Chris Janson,9/10/19
+0.612,0.57,11,-6.642,0,0.0347,0.278,0.0,0.0963,0.334,77.004,197293,4,96,contemporary country**country**texas country,Maren Morris,9/10/19
+0.719,0.538,11,-6.897,0,0.28,0.632,0.0,0.135,0.803,204.132,117013,4,97,melodic rap**rap,Lil Tecca,9/10/19
+0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,242573,4,98,latin**reggaeton**reggaeton colombiano**trap latino,J Balvin,9/10/19
+0.499,0.8,1,-2.665,0,0.0502,0.0906,0.0,0.147,0.272,139.919,229573,4,8,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,4,15,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.542,0.674,6,-4.169,1,0.21,0.0588,0.0,0.0955,0.667,76.388,196760,4,16,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.617,0.684,0,-3.618,1,0.0439,0.0545,0.0,0.104,0.295,132.113,150867,4,18,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.614,0.66,0,-2.848,1,0.0441,0.19,0.0,0.211,0.452,145.01,245267,4,20,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.442,0.737,7,-5.046,1,0.109,0.0589,0.0,0.102,0.21,112.93,218320,5,22,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.632,0.732,6,-3.498,1,0.092,0.105,1.15e-05,0.111,0.317,159.0,221173,4,29,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.724,0.772,6,-4.389,0,0.184,0.25,0.0,0.308,0.347,95.074,168280,4,34,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.665,0.741,0,-3.694,1,0.0787,0.154,3.02e-05,0.345,0.57,144.968,156893,4,37,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.476,0.701,0,-4.234,1,0.0349,0.102,0.0,0.242,0.405,163.882,158120,4,52,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.666,0.603,1,-5.671,1,0.0763,0.497,0.0,0.112,0.262,102.94,141413,4,53,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,207039,4,56,dance pop**pop**post-teen pop,Camila Cabello,9/17/19
+0.469,0.489,0,-6.071,1,0.0314,0.841,0.0,0.103,0.201,74.013,123387,4,58,dfw rap**melodic rap**rap,Post Malone,9/17/19
+0.377,0.651,4,-5.437,0,0.0589,0.0197,5.31e-05,0.174,0.0851,129.607,219742,4,60,dance pop**pop**post-teen pop,Camila Cabello,9/17/19
+0.82,0.697,6,-7.296,0,0.378,0.0349,0.0,0.197,0.629,154.992,185866,4,68,baton rouge rap**trap,YoungBoy Never Broke Again,9/17/19
+0.462,0.512,9,-5.443,1,0.0334,0.478,0.0,0.0993,0.29,114.014,167796,4,82,contemporary country**country**pop,Kelsea Ballerini,9/17/19
+0.644,0.755,1,-5.325,1,0.0448,0.00237,7.64e-06,0.0859,0.334,102.861,190067,4,13,dance pop**pop,Ariana Grande,9/24/19
+0.787,0.713,7,-5.252,1,0.401,0.0849,0.0,0.717,0.761,175.046,148759,4,40,memphis hip hop,NLE Choppa,9/24/19
+0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,181806,4,45,dance pop**electropop**etherpop**indie poptimism**pop,Halsey,9/24/19
+0.854,0.554,8,-4.684,1,0.172,0.769,1.84e-06,0.0749,0.272,142.069,163121,4,75,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/24/19
+0.941,0.676,4,-5.54,0,0.0936,0.211,4.64e-06,0.0986,0.93,120.073,156960,4,76,melodic rap**rap**trap,A Boogie Wit da Hoodie,9/24/19
+0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,188344,1,91,pop**pop rap,blackbear,9/24/19
+0.54,0.821,6,-3.789,1,0.0873,0.0397,0.0,0.423,0.685,148.798,180907,4,97,contemporary country**country,Luke Combs,9/24/19
+0.396,0.51,6,-6.274,1,0.0327,0.355,0.0,0.113,0.299,113.994,180467,4,100,contemporary country**country**country road**modern country rock,Thomas Rhett,9/24/19
+0.716,0.537,0,-7.648,0,0.0514,0.233,0.0,0.157,0.28,129.979,165978,4,1,,THE SCOTTS,5/4/20
+0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,4,11,chicago rap**melodic rap,Juice WRLD,5/4/20
+0.836,0.649,11,-6.442,1,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,4,45,atl hip hop**atl trap**rap**trap,Lil Baby,5/4/20
+0.859,0.477,1,-6.116,1,0.428,0.00414,0.0,0.0819,0.153,145.979,251336,4,65,melodic rap**philly rap**rap**trap,Lil Uzi Vert,5/4/20
+0.608,0.735,4,-5.497,1,0.0371,0.0156,1.69e-06,0.361,0.773,90.007,164668,4,68,black americana**contemporary country**country road,Kane Brown,5/4/20
+0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800,4,84,melodic rap,StaySolidRocky,5/4/20
+0.651,0.788,8,-4.561,0,0.253,0.115,0.0,0.0878,0.589,93.364,184932,4,86,baton rouge rap**trap,YoungBoy Never Broke Again,5/4/20
+0.579,0.565,11,-6.901,1,0.418,0.466,0.0,0.226,0.631,83.973,187141,4,90,baton rouge rap**trap,YoungBoy Never Broke Again,5/4/20
+0.623,0.721,10,-4.584,0,0.339,0.371,0.0,0.109,0.719,166.637,161019,4,92,baton rouge rap**trap,YoungBoy Never Broke Again,5/4/20
+0.691,0.732,5,-3.715,0,0.0294,0.0326,0.0,0.0608,0.477,97.949,258293,3,97,contemporary country**country**country dawn**country road**oklahoma country**post-teen pop,Carrie Underwood,5/4/20
+0.599,0.74,0,-3.517,0,0.334,0.159,0.0,0.154,0.573,100.06,153652,4,99,baton rouge rap**trap,YoungBoy Never Broke Again,5/4/20
+0.825,0.373,5,-5.532,0,0.108,0.163,0.0,0.368,0.12,77.271,149078,4,7,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.735,0.449,10,-7.507,1,0.347,0.629,0.0,0.113,0.0397,122.947,220488,4,14,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.718,0.706,1,-5.709,1,0.06,0.0128,0.0,0.352,0.815,170.004,189176,4,19,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/11/20
+0.458,0.452,9,-9.299,0,0.047,0.342,1.94e-05,0.0703,0.316,86.318,269680,4,25,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.812,0.506,5,-7.706,0,0.116,0.281,0.0,0.325,0.554,145.074,237946,4,27,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,4,29,brostep**edm**pop**pop dance**progressive electro house,Marshmello,5/11/20
+0.864,0.477,10,-5.786,1,0.224,0.201,0.0,0.182,0.5,86.46,192932,4,30,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.473,0.824,7,-3.68,0,0.163,0.482,0.0,0.605,0.374,77.888,222929,4,32,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.543,0.766,0,-3.387,0,0.343,0.423,0.0,0.155,0.729,106.869,204805,3,34,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.41,0.82,1,-6.808,1,0.533,0.252,0.0,0.538,0.526,170.718,223124,4,35,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.881,0.636,7,-4.629,1,0.287,0.00606,0.0,0.111,0.715,163.949,152195,4,39,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.787,0.477,6,-7.837,0,0.199,0.768,0.0,0.104,0.476,80.506,234783,4,45,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.551,0.57,1,-7.385,0,0.351,0.28,0.0,0.424,0.505,85.687,271184,4,51,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.749,0.792,10,-4.151,0,0.0826,0.292,0.0,0.109,0.239,144.064,180000,4,52,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,5/11/20
+0.565,0.598,6,-5.894,1,0.0276,0.335,0.0,0.124,0.449,155.814,199068,4,58,contemporary country**country,Luke Combs,5/11/20
+0.926,0.542,1,-5.064,1,0.293,0.135,0.0,0.0877,0.564,135.14,181929,4,61,atl hip hop**atl trap**rap**trap,Lil Baby,5/11/20
+0.849,0.64,5,-5.15,1,0.196,0.0471,0.0,0.321,0.36,126.005,137826,4,65,atl hip hop**atl trap**rap**trap,Lil Baby,5/11/20
+0.962,0.619,10,-5.562,0,0.405,0.0354,0.0,0.083,0.154,127.958,144652,4,81,atl hip hop**atl trap**rap**trap,Lil Baby,5/11/20
+0.554,0.614,5,-5.715,1,0.44,0.17,0.0,0.267,0.372,80.028,191583,4,86,atl hip hop**atl trap**rap**trap,Lil Baby,5/11/20
+0.641,0.842,9,-4.872,1,0.0464,0.0969,0.0,0.169,0.738,89.997,193427,4,87,contemporary country**country**country road,Luke Bryan,5/11/20
+0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,228482,3,1,dance pop**pop,Ariana Grande,5/18/20
+0.611,0.688,1,-5.688,1,0.341,0.0264,0.0,0.251,0.393,178.462,132303,4,3,emo rap**rap,6ix9ine,5/18/20
+0.846,0.48,8,-8.618,0,0.359,0.269,0.0,0.0989,0.419,143.029,169532,4,43,chicago drill**chicago rap**drill**hip hop**rap**trap,Lil Durk,5/18/20
+0.574,0.791,1,-3.752,1,0.11,0.419,0.0,0.0982,0.612,119.537,167810,4,50,dance pop**pop**r&b,Kehlani,5/18/20
+0.565,0.569,6,-6.084,0,0.379,0.0352,8.81e-06,0.106,0.303,92.466,214825,5,65,brooklyn drill**melodic rap**nyc rap,Lil Tjay,5/18/20
+0.653,0.453,7,-5.395,0,0.0351,0.307,0.00101,0.113,0.0405,111.737,168183,4,68,dance pop**pop**r&b,Kehlani,5/18/20
+0.755,0.578,0,-8.932,0,0.145,0.316,0.0,0.25,0.581,94.148,176960,4,76,dance pop**pop**pop rap**r&b**rap,Chris Brown,5/18/20
+0.665,0.749,5,-6.526,0,0.0834,0.0375,1.95e-06,0.0837,0.701,146.886,191129,4,80,dance pop**pop**r&b,Kehlani,5/18/20
+0.853,0.821,5,-4.537,0,0.209,0.205,0.0,0.209,0.625,130.999,183319,4,88,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/18/20
+0.599,0.525,1,-8.148,1,0.356,0.013,0.0,0.109,0.255,106.746,192000,3,91,chicago drill**chicago rap**drill**hip hop**rap**trap,Lil Durk,5/18/20
+0.752,0.673,10,-5.792,0,0.153,0.0538,0.0,0.133,0.35,164.009,163902,4,30,chicago rap,Polo G,5/25/20
+0.691,0.632,1,-7.598,1,0.0513,0.122,0.0,0.0646,0.488,169.982,205666,4,32,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.715,0.827,4,-5.09,0,0.0617,0.0485,3.61e-05,0.321,0.75,117.977,185277,4,33,boy band**dance pop**pop**post-teen pop,Jonas Brothers,5/25/20
+0.768,0.526,0,-7.182,1,0.209,0.237,0.0,0.139,0.473,139.999,167552,4,34,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.639,0.546,1,-5.382,1,0.0407,0.0837,0.0,0.122,0.149,122.179,173124,4,40,dance pop**pop**post-teen pop,Katy Perry,5/25/20
+0.701,0.546,6,-5.918,0,0.133,0.435,0.0,0.188,0.118,151.9,201980,4,53,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.931,0.667,6,-7.043,0,0.318,0.0144,0.0,0.15,0.667,142.039,207739,4,54,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.829,0.52,8,-10.34,1,0.294,0.0232,0.0,0.134,0.248,136.103,194118,4,57,chicago rap,Polo G,5/25/20
+0.832,0.534,1,-7.813,0,0.253,0.345,0.0,0.165,0.116,93.924,132833,4,61,chicago rap,Polo G,5/25/20
+0.783,0.479,7,-10.646,1,0.541,0.149,0.0,0.101,0.533,176.027,163798,4,62,chicago rap,Polo G,5/25/20
+0.884,0.436,10,-9.922,1,0.255,0.011,0.0,0.101,0.254,119.013,193657,4,68,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.595,0.534,1,-8.747,1,0.318,0.0106,0.00157,0.107,0.134,162.066,225348,4,69,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.873,0.591,2,-7.332,1,0.293,0.00102,0.0,0.13,0.188,150.057,182400,4,71,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.935,0.472,3,-9.304,0,0.0575,0.0455,0.0,0.19,0.659,130.041,236819,4,75,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.931,0.574,4,-5.695,0,0.381,0.283,0.0,0.274,0.449,129.967,189342,4,79,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.898,0.577,2,-7.785,1,0.238,0.0361,0.0,0.176,0.266,83.018,144361,4,81,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.95,0.5,1,-8.18,1,0.399,0.103,3.77e-05,0.103,0.598,114.009,142979,4,82,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.864,0.689,10,-7.273,0,0.22,7.68e-05,0.000467,0.111,0.412,152.946,148246,4,84,atl hip hop**hip hop**pop rap**rap**southern hip hop**trap,Future,5/25/20
+0.597,0.477,1,-9.638,0,0.642,0.137,0.0,0.113,0.512,80.382,171442,4,92,chicago rap,Polo G,5/25/20
+0.732,0.462,5,-10.191,0,0.406,0.126,0.0,0.12,0.117,180.067,170057,4,93,chicago rap,Polo G,5/25/20
+0.807,0.665,5,-5.249,0,0.276,0.0919,0.0,0.0788,0.557,164.964,176575,4,95,chicago rap,Polo G,5/25/20
+0.672,0.855,9,-3.764,1,0.0397,0.021,0.0,0.323,0.646,123.056,182200,4,1,art pop**dance pop**pop,Lady Gaga,6/1/20
+0.825,0.458,0,-7.47,1,0.0577,0.114,0.0,0.102,0.161,145.115,197760,4,38,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.837,0.586,11,-8.521,0,0.0807,0.281,0.0,0.134,0.618,117.066,197000,4,41,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.823,0.504,8,-8.65,0,0.16,0.206,0.0,0.417,0.481,112.985,169907,4,55,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.89,0.455,0,-9.0,1,0.255,0.0217,0.0058,0.11,0.313,148.009,158240,4,57,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.889,0.507,2,-8.74,1,0.162,0.0562,0.0,0.116,0.219,111.994,154667,4,59,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.852,0.745,11,-3.667,0,0.171,0.0313,0.0,0.0824,0.897,148.007,195681,4,62,atl hip hop**rap**trap,Migos,6/1/20
+0.804,0.725,1,-9.463,1,0.0838,0.0912,0.0,0.0708,0.356,139.967,149133,4,67,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.873,0.577,1,-9.151,1,0.271,0.353,0.0,0.111,0.956,117.089,149133,4,70,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.65,0.827,8,-4.014,1,0.0599,0.0229,0.0,0.121,0.223,144.995,225668,4,76,k-rap,Agust D,6/1/20
+0.598,0.472,0,-10.991,1,0.258,0.204,1.54e-05,0.108,0.522,120.08,230600,4,78,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.869,0.568,11,-7.631,0,0.104,0.0759,0.00344,0.101,0.394,111.994,152680,4,84,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.938,0.546,2,-7.037,1,0.138,0.00353,0.0,0.102,0.58,111.971,128640,4,86,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.793,0.536,5,-7.624,0,0.103,0.0704,3.86e-06,0.171,0.382,78.006,165680,4,98,atl hip hop**hip hop**melodic rap**rap**trap,Gunna,6/1/20
+0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,0.393,0.33,112.05,176547,4,100,tropical house,Surf Mesa,6/1/20
+0.752,0.87,9,-3.812,0,0.0623,0.0604,1.12e-05,0.489,0.784,120.006,157707,4,33,art pop**dance pop**pop,Lady Gaga,6/8/20
+0.66,0.76,2,-5.726,1,0.0787,0.291,0.0,0.632,0.394,127.984,180129,4,41,chicago rap**melodic rap,Juice WRLD,6/8/20
+0.776,0.509,0,-6.266,0,0.467,0.192,1.49e-06,0.115,0.485,94.634,129371,4,66,r&b en espanol,ROSALIA,6/8/20
+0.512,0.58,3,-6.658,0,0.029,0.621,1.72e-05,0.513,0.303,159.847,178147,3,78,contemporary country**country**country road,Jason Aldean,6/8/20
+0.547,0.822,5,-2.85,1,0.0334,0.602,0.0,0.107,0.553,81.981,193027,4,82,contemporary country**country pop**country rap**country road**modern country rock,LOCASH,6/8/20
+0.784,0.632,10,-6.083,0,0.347,0.156,0.0,0.605,0.746,124.603,232839,4,83,atl hip hop**hip hop**melodic rap**rap**trap**viral rap,Lil Yachty,6/8/20
+0.723,0.88,11,-4.287,0,0.038,0.00334,0.0179,0.0632,0.323,123.036,177600,4,84,art pop**dance pop**pop,Lady Gaga,6/8/20
+0.691,0.765,8,-4.727,1,0.111,0.464,3.29e-06,0.203,0.855,174.021,246000,4,86,latin**reggaeton**reggaeton flow**trap boricua**trap latino,Anuel AA,6/8/20
+0.624,0.903,6,-3.046,1,0.0347,0.00824,0.0,0.309,0.724,116.99,211430,4,87,arkansas country**contemporary country**country**country road**modern country rock**redneck,Justin Moore,6/8/20
+0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,0.0755,0.507,147.988,199549,4,88,edm**pop**pop dance**tropical house,Kygo,6/8/20
+0.643,0.79,4,-6.079,1,0.0462,0.294,0.0,0.107,0.8,95.987,188893,4,90,contemporary country**country**country road**modern country rock,Lee Brice,6/8/20
+0.879,0.498,4,-6.027,0,0.18,0.239,0.0,0.0967,0.405,106.044,163173,4,92,dance pop**pop,Doja Cat,6/8/20
+0.516,0.745,2,-8.352,1,0.0774,0.564,0.0,0.275,0.826,186.006,173173,3,97,contemporary country,HARDY,6/8/20
+0.73,0.772,5,-3.883,0,0.316,0.0878,0.0,0.401,0.403,147.053,218103,4,64,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,6/15/20
+0.868,0.479,4,-6.687,0,0.445,0.703,0.0,0.102,0.776,133.928,115200,4,80,brooklyn drill**nyc rap,Sleepy Hallow,6/15/20
+0.894,0.635,2,-6.929,1,0.0473,0.193,0.00105,0.0823,0.428,105.013,249143,4,90,dance pop**pop**pop rap,Black Eyed Peas,6/15/20
+0.537,0.686,5,-5.022,1,0.0293,0.0287,0.00709,0.0988,0.611,78.052,190973,4,93,arkansas country**contemporary country**country**country pop,Ashley McBryde,6/15/20
+0.308,0.616,8,-6.947,1,0.0363,0.0344,4.01e-06,0.102,0.41,72.273,178419,4,95,contemporary country**country**country road**modern country rock**redneck,Brantley Gilbert,6/15/20
+0.517,0.724,11,-5.953,1,0.0443,0.0146,0.0,0.151,0.57,143.937,208978,4,100,black americana**contemporary country**country road,Kane Brown,6/15/20
+0.744,0.422,1,-8.946,1,0.294,0.0319,0.00011,0.11,0.493,180.006,202667,4,1,emo rap**rap,6ix9ine,6/22/20
+0.59,0.618,1,-5.756,1,0.334,0.0127,0.0,0.244,0.153,96.459,252729,3,3,atl hip hop**atl trap**rap**trap,Lil Baby,6/22/20
+0.54,0.77,1,-3.981,1,0.389,0.194,2.74e-05,0.372,0.565,159.494,204000,4,51,brooklyn drill,Pop Smoke,6/22/20
+0.806,0.749,1,-5.268,1,0.328,0.0838,0.0,0.0621,0.77,140.032,145167,4,54,memphis hip hop,NLE Choppa,6/22/20
+0.586,0.512,8,-8.819,0,0.0668,0.723,0.0002,0.119,0.235,75.857,235480,4,59,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,6/22/20
+0.457,0.621,10,-5.923,1,0.138,0.218,0.0,0.0944,0.634,85.359,224638,3,65,cali rap**melodic rap**pop rap**rap**trap,Tyla Yaweh,6/22/20
+0.767,0.481,0,-8.52,0,0.0803,0.234,0.0,0.269,0.761,150.076,171375,4,81,nz pop,Jawsh 685,6/22/20
+0.565,0.835,9,-3.379,1,0.0335,0.34,0.0,0.0726,0.763,105.007,220120,4,92,contemporary country**country**country road**modern country rock,Chris Janson,6/22/20
+0.506,0.569,3,-6.761,1,0.0286,0.246,0.0,0.112,0.44,157.857,224287,4,96,contemporary country**country**country road**modern country rock,Zac Brown Band,6/22/20
+0.815,0.567,10,-4.653,0,0.135,0.156,0.0,0.0884,0.732,95.034,151641,4,100,nyc rap**pop r&b**pop rap,J.I the Prince of N.Y,6/22/20
+0.824,0.555,1,-5.817,1,0.05,0.00337,6.42e-06,0.217,0.0611,120.002,281273,4,37,dance pop**pop**r&b,Beyonce,6/29/20
+0.698,0.572,2,-7.735,1,0.198,0.135,0.0,0.154,0.391,71.446,176959,4,57,melodic rap**rap**trap,A Boogie Wit da Hoodie,6/29/20
+0.883,0.299,2,-8.382,1,0.105,0.23,7.62e-06,0.162,0.55,136.982,158329,4,92,black americana**contemporary country,BRELAND,6/29/20
+0.589,0.684,1,-4.51,0,0.394,0.143,0.0,0.214,0.261,112.592,196542,5,94,baton rouge rap**trap,YoungBoy Never Broke Again,6/29/20
+0.562,0.683,7,-4.427,1,0.0296,0.00531,0.0,0.107,0.385,132.003,244798,4,96,contemporary country**texas country,Parker McCollum,6/29/20
+0.74,0.516,1,-6.233,0,0.0507,0.0183,0.0,0.0558,0.698,139.918,170858,4,99,modern rock,AJR,6/29/20
+0.821,0.863,6,-3.159,1,0.353,0.00824,0.0,0.0377,0.874,180.013,154324,4,28,houston rap**pop**trap queen,Megan Thee Stallion,7/6/20
+0.812,0.761,11,-5.222,1,0.0812,0.0465,0.000135,0.0601,0.344,130.032,182956,4,33,k-pop**k-pop girl group,BLACKPINK,7/6/20
+0.67,0.847,10,-4.85,1,0.409,0.184,0.0,0.304,0.381,137.22,189827,4,49,chicago rap**rap,Kanye West,7/6/20
+0.789,0.419,1,-9.874,0,0.157,0.249,0.0257,0.123,0.542,117.988,194396,4,75,alternative r&b**atl hip hop**hip hop**melodic rap**pop rap**r&b**rap**trap,6LACK,7/6/20
+0.575,0.543,3,-5.062,1,0.0529,0.102,0.0,0.176,0.283,159.905,186480,4,77,alternative r&b**melodic rap**pop**pop rap,Trevor Daniel,7/6/20
+0.548,0.864,10,-5.169,1,0.035,0.0657,0.134,0.117,0.428,90.044,228707,4,92,contemporary country**country**country road**modern country rock,Eric Church,7/6/20
+0.572,0.949,4,-4.865,1,0.06,0.00165,0.000195,0.163,0.53,118.974,194867,4,93,contemporary country**country,Luke Combs,7/6/20
+0.874,0.443,5,-9.628,0,0.241,0.147,0.0,0.124,0.298,118.004,235988,4,96,florida rap,Rod Wave,7/6/20
+0.499,0.619,2,-7.054,1,0.0339,0.571,4.82e-06,0.148,0.514,86.185,212147,4,99,contemporary country**country**country road,Tim McGraw,7/6/20
+0.823,0.586,6,-6.606,0,0.2,0.114,0.0,0.193,0.347,125.971,190476,4,6,brooklyn drill,Pop Smoke,7/13/20
+0.49,0.618,1,-5.655,1,0.104,0.0221,3.77e-06,0.259,0.286,99.7,201600,4,11,brooklyn drill,Pop Smoke,7/13/20
+0.688,0.647,2,-7.258,1,0.19,0.00815,1.65e-05,0.095,0.195,88.834,164580,4,31,brooklyn drill,Pop Smoke,7/13/20
+0.713,0.605,11,-7.487,1,0.107,0.497,3.46e-06,0.115,0.432,142.025,175756,4,34,brooklyn drill,Pop Smoke,7/13/20
+0.548,0.506,4,-7.434,0,0.102,0.203,0.0001,0.0788,0.557,119.987,160000,5,37,brooklyn drill,Pop Smoke,7/13/20
+0.8,0.564,8,-5.817,1,0.4,0.0287,1.65e-06,0.112,0.318,139.989,150857,4,39,brooklyn drill,Pop Smoke,7/13/20
+0.739,0.616,7,-6.963,0,0.0338,0.252,1.93e-06,0.101,0.654,91.071,158466,4,41,brooklyn drill,Pop Smoke,7/13/20
+0.717,0.474,5,-8.383,0,0.403,0.0509,0.0,0.139,0.448,123.906,185804,4,43,brooklyn drill,Pop Smoke,7/13/20
+0.48,0.602,10,-6.335,0,0.368,0.487,0.0,0.0848,0.269,179.798,213333,4,44,brooklyn drill,Pop Smoke,7/13/20
+0.709,0.548,10,-8.493,1,0.353,0.65,1.59e-06,0.133,0.543,83.995,160000,4,52,brooklyn drill,Pop Smoke,7/13/20
+0.944,0.579,8,-4.961,1,0.191,0.0381,0.0,0.253,0.769,135.033,259346,4,54,brooklyn drill,Pop Smoke,7/13/20
+0.645,0.64,10,-6.871,0,0.179,0.395,1.04e-05,0.286,0.674,140.248,48000,4,55,brooklyn drill,Pop Smoke,7/13/20
+0.764,0.676,11,-6.761,0,0.0927,0.389,0.0,0.215,0.461,97.02,197938,4,56,brooklyn drill,Pop Smoke,7/13/20
+0.794,0.717,7,-5.73,1,0.251,0.0511,0.0,0.195,0.372,141.881,202816,4,57,brooklyn drill,Pop Smoke,7/13/20
+0.929,0.667,8,-6.789,0,0.353,0.0185,0.0,0.1,0.274,126.998,155168,4,63,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,7/13/20
+0.831,0.762,11,-5.656,0,0.207,0.0885,0.0,0.107,0.495,99.999,192000,4,65,brooklyn drill,Pop Smoke,7/13/20
+0.63,0.446,1,-8.9,1,0.0351,0.337,0.0,0.166,0.177,143.078,202193,4,74,chicago rap**melodic rap,Juice WRLD,7/13/20
+0.794,0.792,7,-6.889,1,0.186,0.22,0.0,0.0998,0.546,126.994,188976,4,76,brooklyn drill,Pop Smoke,7/13/20
+0.718,0.66,2,-7.39,1,0.325,0.363,0.0,0.159,0.659,142.879,132587,4,79,brooklyn drill,Pop Smoke,7/13/20
+0.672,0.733,11,-5.377,1,0.0566,0.00289,0.0,0.199,0.354,105.043,149857,4,99,emo rap**rap,6ix9ine,7/13/20
+0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,4,2,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.65,0.613,9,-6.13,0,0.128,0.00336,0.0,0.267,0.0804,149.972,194621,4,5,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.747,0.622,11,-5.825,1,0.0838,0.176,0.0,0.151,0.57,159.93,181661,4,7,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.701,0.65,6,-6.313,1,0.104,0.291,0.0,0.112,0.647,90.003,160212,4,10,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.868,0.55,6,-6.417,1,0.226,0.183,0.0,0.109,0.464,117.943,154767,4,12,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.567,0.545,1,-6.668,0,0.0448,0.168,0.0,0.112,0.234,174.146,176650,4,14,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.654,0.452,7,-6.36,1,0.0439,0.17,0.0,0.114,0.532,138.034,186749,4,16,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.88,0.787,8,-5.189,1,0.118,0.226,0.0,0.12,0.588,113.018,264834,4,22,hip hop**ohio hip hop**pop rap**rap,Kid Cudi,7/20/20
+0.745,0.5,8,-6.184,1,0.135,0.439,0.0,0.0943,0.433,76.968,168685,4,34,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.707,0.67,7,-6.328,0,0.257,0.0813,0.0,0.098,0.235,163.099,200629,4,35,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.661,0.665,4,-6.356,0,0.053,0.538,0.0,0.0981,0.486,75.059,147548,4,42,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.595,0.528,5,-7.371,0,0.0935,0.082,0.0,0.142,0.515,150.075,179464,4,46,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.288,0.638,4,-6.935,0,0.0779,0.133,8.16e-05,0.14,0.147,66.424,173114,3,47,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.621,0.695,4,-5.124,1,0.0911,0.00584,0.0,0.086,0.298,173.966,136408,4,51,chicago rap**melodic rap,Juice WRLD,7/20/20
+0.651,0.477,2,-6.775,1,0.0443,0.0796,0.0,0.1,0.217,112.668,191587,4,84,pop**r&b,Summer Walker,7/20/20
+0.632,0.495,7,-8.335,1,0.143,0.333,0.0,0.0941,0.233,77.083,213933,4,86,pop**r&b,Summer Walker,7/20/20
+0.954,0.696,10,-7.117,0,0.204,0.00576,0.000498,0.0754,0.432,100.036,139413,4,91,cali rap**dance pop**pop**pop rap**r&b**trap queen,Saweetie,7/20/20
+0.8,0.56,5,-4.818,0,0.261,0.057,0.0,0.134,0.45,163.071,200221,4,3,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,7/27/20
+0.695,0.343,5,-10.798,1,0.0432,0.0743,1.04e-06,0.107,0.229,85.84,218902,4,8,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,7/27/20
+0.789,0.72,8,-5.652,0,0.218,0.223,0.0,0.129,0.664,122.031,166794,4,97,dance pop**edm**electro house**german dance**pop dance**pop edm**tropical house,Topic,7/27/20
+0.612,0.58,0,-8.572,0,0.0419,0.525,0.000414,0.26,0.534,130.045,239560,4,1,pop,Taylor Swift,8/3/20
+0.631,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023,613027,4,4,pop,Taylor Swift,8/3/20
+0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,4,6,pop,Taylor Swift,8/3/20
+0.686,0.662,7,-8.505,1,0.0413,0.467,0.0023,0.109,0.706,147.922,230999,4,13,pop,Taylor Swift,8/3/20
+0.456,0.263,0,-10.63,1,0.0332,0.806,0.0,0.0749,0.111,129.86,255894,4,16,pop,Taylor Swift,8/3/20
+0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,261923,4,23,pop,Taylor Swift,8/3/20
+0.553,0.413,2,-10.037,1,0.0334,0.687,2.33e-06,0.0594,0.379,110.107,208978,4,26,pop,Taylor Swift,8/3/20
+0.596,0.488,4,-10.769,1,0.0274,0.9,2.7e-05,0.091,0.415,94.926,208907,4,35,pop,Taylor Swift,8/3/20
+0.653,0.452,4,-11.143,0,0.055,0.838,7.73e-05,0.108,0.45,83.433,252881,4,37,pop,Taylor Swift,8/3/20
+0.515,0.476,9,-9.843,1,0.0328,0.314,4.74e-05,0.171,0.412,135.886,195097,4,39,pop,Taylor Swift,8/3/20
+0.593,0.377,0,-8.761,1,0.0253,0.6,0.0,0.0976,0.502,95.939,294521,4,42,pop,Taylor Swift,8/3/20
+0.559,0.31,10,-10.445,1,0.0338,0.881,0.0,0.106,0.46,119.845,190898,4,44,pop,Taylor Swift,8/3/20
+0.485,0.567,1,-6.456,1,0.0388,0.316,0.0,0.0949,0.157,93.676,211254,4,46,pop**pop rock,Maroon 5,8/3/20
+0.592,0.699,3,-8.995,1,0.0471,0.655,1.68e-05,0.114,0.506,141.916,237258,4,47,pop,Taylor Swift,8/3/20
+0.732,0.663,6,-7.616,0,0.192,0.0819,0.0,0.115,0.227,139.964,210587,4,51,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,8/3/20
+0.606,0.737,8,-5.745,1,0.0321,0.134,0.0,0.057,0.65,82.966,171027,4,56,contemporary country**country**country road**oklahoma country,Blake Shelton,8/3/20
+0.354,0.267,1,-13.69,1,0.0281,0.731,0.000402,0.0858,0.113,94.219,289749,4,57,pop,Taylor Swift,8/3/20
+0.647,0.272,5,-12.906,1,0.0916,0.918,1.73e-05,0.0918,0.339,150.044,234000,4,58,pop,Taylor Swift,8/3/20
+0.571,0.693,6,-8.234,0,0.0545,0.00536,0.0,0.173,0.393,168.169,232253,4,63,latin**reggaeton**reggaeton colombiano**trap latino,J Balvin,8/3/20
+0.662,0.181,8,-15.065,1,0.0415,0.966,3.86e-06,0.133,0.429,118.819,220043,4,71,pop,Taylor Swift,8/3/20
+0.769,0.829,0,-5.228,1,0.0661,0.00948,6.65e-05,0.301,0.648,159.943,100291,4,95,conscious hip hop**dmv rap**hip hop**pop rap**rap,Logic,8/3/20
+0.444,0.309,8,-10.956,1,0.062,0.795,0.132,0.352,0.0875,104.745,208155,4,6,art pop**electropop**pop,Billie Eilish,8/10/20
+0.808,0.676,4,-4.902,1,0.223,0.0618,2.68e-06,0.11,0.0763,144.018,144973,4,19,hip hop**pop rap**rap**southern hip hop**trap**underground hip hop,A$AP Ferg,8/10/20
+0.775,0.58,9,-6.83,1,0.439,0.0064,0.0,0.354,0.762,130.032,162680,4,92,north carolina hip hop**rap,DaBaby,8/10/20
+0.935,0.454,1,-7.509,1,0.375,0.0194,0.0,0.0824,0.357,133.073,187541,4,1,dance pop**pop**pop rap**rap,Cardi B,8/17/20
+0.694,0.685,6,-6.535,0,0.133,0.224,0.0,0.124,0.306,158.831,196180,4,8,chicago rap**melodic rap,Juice WRLD,8/17/20
+0.679,0.574,11,-10.431,0,0.0651,0.138,0.0,0.266,0.75,156.036,173893,4,62,florida rap,Rod Wave,8/17/20
+0.637,0.69,1,-4.057,0,0.0405,0.00786,0.0,0.124,0.457,129.857,162399,4,73,dance pop**pop,Ava Max,8/17/20
+0.731,0.675,5,-5.134,0,0.0434,0.00473,0.0,0.141,0.298,124.939,139461,4,82,ohio hip hop,Machine Gun Kelly,8/17/20
+0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,0.732,91.007,140533,4,84,cali rap**pop rap,24kGoldn,8/17/20
+0.756,0.657,6,-8.709,0,0.0681,0.0628,0.0,0.218,0.458,76.987,174746,5,86,florida rap,Rod Wave,8/17/20
+0.429,0.831,8,-5.108,1,0.0473,0.0781,0.0,0.312,0.348,167.984,184893,4,92,contemporary country**country**country pop,Jameson Rodgers,8/17/20
+0.815,0.715,4,-4.65,0,0.207,0.3,4.83e-06,0.091,0.786,176.007,345241,4,93,latin**reggaeton**trap latino,Nio Garcia,8/17/20
+0.761,0.518,0,-8.871,1,0.134,0.244,3.47e-05,0.107,0.522,133.976,261493,4,2,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,8/24/20
+0.466,0.786,0,-5.13,1,0.0328,0.417,6.1e-05,0.125,0.571,203.903,210507,4,6,contemporary country,Morgan Wallen,8/24/20
+0.705,0.814,4,-5.466,0,0.0346,0.00115,0.00312,0.203,0.259,110.0,223279,4,14,dance pop**pop**post-teen pop,Miley Cyrus,8/24/20
+0.877,0.607,10,-7.818,0,0.15,0.535,0.0,0.138,0.773,127.055,151249,4,58,baton rouge rap**trap,YoungBoy Never Broke Again,8/24/20
+0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,3,61,bedroom pop**electropop**indie pop**pop,Conan Gray,8/24/20
+0.799,0.66,1,-6.153,0,0.079,0.256,0.0,0.111,0.471,140.04,195429,4,66,rap**trap,Internet Money,8/24/20
+0.868,0.638,2,-7.746,1,0.0736,0.146,0.0565,0.0931,0.459,126.03,182857,4,71,memphis hip hop**rap**southern hip hop**trap,Money Man,8/24/20
+0.728,0.806,6,-3.766,1,0.0623,0.0531,0.000301,0.153,0.698,168.084,217547,4,92,latin**puerto rican pop**reggaeton**trap latino,Ozuna,8/24/20
+0.681,0.726,7,-5.1,1,0.0453,0.162,0.0,0.119,0.819,84.979,176729,4,100,contemporary country**country**country road**modern country rock,Chase Rice,8/24/20
+0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,199054,4,1,k-pop**k-pop boy group,BTS,8/31/20
+0.433,0.443,1,-10.568,0,0.0361,0.0922,0.000293,0.117,0.0363,79.903,185851,3,74,rap**slap house,Travis Scott,8/31/20
+0.766,0.788,6,-3.128,0,0.312,0.105,5.81e-06,0.142,0.609,179.984,200482,4,79,latin**reggaeton**reggaeton colombiano,Maluma,8/31/20
+0.511,0.654,8,-6.133,1,0.314,0.053,0.0,0.316,0.279,154.868,156663,4,90,baton rouge rap**trap,YoungBoy Never Broke Again,8/31/20
+0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,169266,4,95,alt z**dance pop**pop**post-teen pop,Tate McRae,8/31/20
+0.724,0.603,1,-6.553,1,0.406,0.0187,0.0,0.169,0.152,180.02,166523,4,96,conscious hip hop**east coast hip hop**gangster rap**hardcore hip hop**hip hop**queens hip hop**rap,Nas,8/31/20
+0.79,0.701,9,-4.81,1,0.365,0.0317,8.06e-05,0.0311,0.91,159.972,177813,4,13,k-pop**k-pop girl group,BLACKPINK,9/7/20
+0.612,0.884,4,-4.113,0,0.0454,0.0759,0.00132,0.247,0.679,178.043,210795,4,38,dance pop**edm**electro house**house**pop**pop rap**progressive house**uk dance,Calvin Harris,9/7/20
+0.638,0.538,10,-8.445,1,0.0315,0.452,0.000415,0.0695,0.318,89.124,240413,4,57,contemporary country**outlaw country,Chris Stapleton,9/7/20
+0.761,0.517,5,-6.916,1,0.0927,0.114,0.0,0.157,0.46,147.912,174730,4,79,rap**trap,Internet Money,9/7/20
+0.866,0.531,9,-6.859,1,0.0703,0.0379,0.0,0.0937,0.266,99.069,135740,4,83,hip hop**pop**pop rap**r&b**southern hip hop**trap**trap soul,Ty Dolla $ign,9/7/20
+0.839,0.683,10,-9.232,0,0.165,0.00667,0.0,0.241,0.522,120.003,159955,4,90,viral rap,WhoHeem,9/7/20
+0.679,0.516,0,-6.371,0,0.0452,0.199,0.0,0.0965,0.716,120.074,202008,4,29,pop**r&b**rap,SZA,9/14/20
+0.736,0.887,1,-4.159,0,0.124,0.218,0.0,0.101,0.495,100.501,186283,3,62,chicago drill**chicago rap**drill**hip hop**rap**trap,Lil Durk,9/14/20
+0.793,0.771,5,-3.417,1,0.0959,0.0337,1.51e-06,0.284,0.835,171.943,247308,4,64,latin**panamanian pop**reggaeton**trap latino,Sech,9/14/20
+0.724,0.675,2,-5.267,1,0.0867,0.0978,9.41e-06,0.351,0.325,160.048,199758,4,65,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/14/20
+0.676,0.82,7,-5.217,1,0.0554,0.0493,0.0,0.615,0.618,152.028,199250,4,69,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/14/20
+0.631,0.848,9,-4.839,0,0.31,0.138,0.0,0.379,0.265,91.879,231352,4,82,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/14/20
+0.501,0.788,10,-4.624,1,0.0415,0.12,0.0,0.137,0.61,152.047,186613,4,91,contemporary country**country**country road**modern country rock,Russell Dickerson,9/14/20
+0.711,0.838,11,-3.553,0,0.122,0.00607,0.0,0.0898,0.53,80.024,224770,4,95,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/14/20
+0.563,0.722,6,-3.972,1,0.0279,0.0345,0.0,0.0795,0.309,149.903,192587,4,96,arkansas country**contemporary country**country pop,Matt Stell,9/14/20
+0.778,0.727,1,-6.115,0,0.0837,0.0212,0.0,0.101,0.218,119.972,152263,4,97,detroit hip hop**hip hop**pop**pop rap**rap**southern hip hop**trap,Big Sean,9/14/20
+0.778,0.662,8,-6.081,0,0.308,0.187,0.0,0.116,0.571,149.935,192000,4,35,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.743,0.837,1,-5.025,0,0.0649,0.0172,0.0,0.0743,0.263,103.072,159863,4,36,brostep**edm**pop**pop dance**progressive electro house,Marshmello,9/21/20
+0.819,0.738,1,-5.159,0,0.186,0.47,0.0,0.117,0.676,139.957,164650,4,44,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.529,0.723,4,-6.022,0,0.035,0.0175,0.0,0.364,0.459,119.942,169255,4,65,contemporary country**country pop,Andrew Jannakos,9/21/20
+0.524,0.832,6,-4.351,1,0.471,0.0508,0.0,0.632,0.761,111.142,209528,5,72,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.714,0.722,0,-5.685,1,0.0538,0.0735,0.0,0.114,0.439,143.019,168046,4,76,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.592,0.691,6,-6.325,1,0.204,0.355,0.0,0.217,0.815,159.708,156130,4,81,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.725,0.79,3,-4.773,0,0.327,0.346,0.0,0.195,0.815,157.99,159086,4,88,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.762,0.433,5,-8.937,1,0.187,0.143,0.0,0.118,0.394,122.074,203145,4,95,chill r&b**pop**pop r&b**pop rap**r&b,Vedo,9/21/20
+0.614,0.789,0,-4.859,1,0.541,0.178,0.0,0.396,0.349,106.704,169953,5,98,baton rouge rap**trap,YoungBoy Never Broke Again,9/21/20
+0.673,0.704,6,-8.056,1,0.36,0.196,0.0,0.0898,0.372,86.919,212093,4,3,canadian pop**pop,Justin Bieber,9/28/20
+0.653,0.667,10,-6.764,0,0.0423,0.154,0.0,0.107,0.556,104.181,213869,4,51,dance pop**pop**uk pop,Sam Smith,9/28/20
+0.522,0.659,6,-6.016,1,0.0304,0.307,0.0,0.102,0.355,141.996,224987,4,70,contemporary country**country,Luke Combs,9/28/20
+0.664,0.586,7,-7.813,0,0.238,0.212,0.0,0.216,0.589,88.502,179813,5,80,melodic rap**rap,Lil Tecca,9/28/20
+0.514,0.634,1,-6.514,1,0.383,0.235,0.0,0.13,0.308,76.181,193013,4,90,melodic rap**rap,Lil Tecca,9/28/20
+0.91,0.604,6,-4.392,0,0.082,0.448,0.0,0.0863,0.807,110.075,180788,4,91,funk carioca**funk pop**pagode baiano**pop nacional,Anitta,9/28/20
+0.718,0.624,1,-6.802,0,0.13,0.227,0.0,0.31,0.373,127.916,210676,4,92,arkansas hip hop**atl hip hop**melodic rap**pop r&b**pop rap**rap**southern hip hop**trap,YFN Lucci,9/28/20
+0.926,0.762,1,-1.887,1,0.205,0.000718,0.0,0.117,0.277,127.931,153750,4,93,detroit trap**scam rap**trap,Sada Baby,9/28/20
+0.709,0.679,11,-6.503,0,0.346,0.0115,0.0,0.0971,0.754,162.973,153467,4,95,north carolina hip hop**rap,DaBaby,9/28/20
+0.925,0.463,6,-9.309,0,0.454,0.0681,0.0,0.101,0.961,133.061,122729,4,35,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.584,0.611,0,-8.692,1,0.52,0.0694,0.0,0.453,0.798,144.347,240918,4,54,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.582,0.537,0,-9.229,1,0.619,0.129,0.0,0.0749,0.771,82.103,180930,4,59,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.727,0.546,0,-4.572,1,0.0437,0.656,0.0,0.122,0.69,106.891,197333,4,60,mexican hip hop**rap conciencia,Gera MX,5/3/21
+0.615,0.422,5,-8.019,0,0.0504,0.604,0.0,0.112,0.185,135.859,214094,5,64,alternative r&b**dance pop**pop**r&b,H.E.R.,5/3/21
+0.774,0.627,1,-6.874,1,0.246,0.0236,0.0,0.181,0.437,155.116,179398,4,80,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.855,0.576,1,-8.501,1,0.38,0.0625,0.0,0.213,0.324,140.022,144033,4,82,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.484,0.783,2,-5.334,1,0.0308,0.0957,0.000118,0.107,0.594,137.918,215360,4,97,contemporary country**country**country road,Jason Aldean,5/3/21
+0.701,0.547,2,-8.238,1,0.0483,0.00843,0.0,0.0987,0.4,140.015,206108,4,99,modern rock,AJR,5/3/21
+0.818,0.583,1,-7.525,1,0.285,0.0551,0.0,0.213,0.17,129.811,192256,4,100,hip hop**memphis hip hop**rap**southern hip hop**tennessee hip hop**trap,Moneybagg Yo,5/3/21
+0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,245897,4,10,art pop**electropop**pop,Billie Eilish,5/10/21
+0.477,0.727,2,-4.053,1,0.286,0.000866,0.0,0.108,0.227,150.062,236524,4,20,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.397,0.545,3,-8.052,0,0.0985,0.133,0.0,0.116,0.301,142.214,258982,4,30,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.757,0.721,4,-2.906,0,0.0691,0.00196,0.0,0.647,0.364,124.036,165366,4,43,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.877,0.444,8,-7.547,1,0.172,0.24,0.0,0.169,0.658,129.06,165527,4,54,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.597,0.571,1,-6.205,0,0.293,0.492,0.0,0.093,0.165,106.196,218448,3,67,boston hip hop**hip hop**pop rap**rap,Joyner Lucas,5/10/21
+0.359,0.706,5,-6.151,1,0.0309,0.000602,0.0,0.285,0.479,174.079,171333,4,73,contemporary country**country**country road**modern country rock,Thomas Rhett,5/10/21
+0.669,0.687,6,-5.782,0,0.12,0.009,0.0,0.508,0.335,91.969,306194,4,79,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.725,0.638,1,-4.906,1,0.204,0.00838,0.0,0.104,0.316,119.795,159538,5,84,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.89,0.701,0,-5.712,0,0.342,0.00306,3.06e-06,0.0895,0.505,80.462,225020,4,85,hip hop**rap,Baby Keem,5/10/21
+0.847,0.912,11,-3.129,1,0.257,0.0781,0.0,0.142,0.88,81.486,156895,4,90,memphis hip hop,NLE Choppa,5/10/21
+0.623,0.79,7,-5.07,1,0.0473,0.118,0.0,0.226,0.694,81.949,187684,4,95,contemporary country**country**country road**modern country rock,Cole Swindell,5/10/21
+0.888,0.407,8,-10.158,0,0.487,0.157,0.0,0.0914,0.751,77.031,176160,4,97,pop rap,Cico P,5/10/21
+0.352,0.758,9,-2.491,0,0.0434,0.536,0.0,0.161,0.653,84.281,338637,4,100,dirty south rap**hip hop**miami hip hop**pop**pop rap**rap**southern hip hop**trap,DJ Khaled,5/10/21
+0.623,0.473,8,-8.336,1,0.461,0.626,0.0,0.119,0.138,84.066,197822,4,8,conscious hip hop**hip hop**north carolina hip hop**rap,J. Cole,5/17/21
+0.584,0.859,8,-5.616,1,0.121,0.0144,0.0,0.847,0.369,77.005,236883,4,11,melodic rap**rap**trap,Trippie Redd,5/17/21
+0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,211295,4,53,permanent wave**pop,Coldplay,5/17/21
+0.807,0.659,11,-6.92,1,0.332,0.0224,0.0,0.309,0.438,82.465,168727,4,56,melodic rap**rap,Lil Tecca,5/17/21
+0.578,0.639,4,-5.749,1,0.0374,0.0586,0.0,0.0944,0.296,108.045,277413,4,74,dance pop**pop,P!nk,5/17/21
+0.656,0.672,10,-7.385,0,0.0468,0.0636,1.45e-05,0.186,0.137,130.006,217609,4,82,pop**rap**trap,Don Toliver,5/17/21
+0.551,0.941,4,-3.793,1,0.0683,0.00179,0.0,0.066,0.744,90.039,228267,4,96,contemporary country**country**country road**oklahoma country,Blake Shelton,5/17/21
+0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,4,1,pop,Olivia Rodrigo,5/24/21
+0.573,0.867,5,-2.876,0,0.168,0.0853,0.0,0.38,0.231,74.861,339506,4,12,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,5/24/21
+0.847,0.629,9,-5.81,1,0.102,0.0318,0.0,0.152,0.109,135.976,255532,4,38,atl hip hop**rap**trap,Migos,5/24/21
+0.924,0.523,0,-6.362,1,0.132,0.011,0.0,0.17,0.144,131.892,181690,4,52,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,5/24/21
+0.855,0.463,3,-7.454,1,0.0367,0.217,1.77e-05,0.347,0.866,102.931,122773,4,58,,Bella Poarch,5/24/21
+0.792,0.707,7,-5.218,0,0.0623,0.116,0.0,0.12,0.408,134.997,224042,4,67,rap**trap,Internet Money,5/24/21
+0.638,0.66,3,-7.115,0,0.299,0.246,0.0,0.134,0.738,157.996,174684,4,78,baton rouge rap**trap,YoungBoy Never Broke Again,5/24/21
+0.761,0.722,7,-4.343,1,0.391,0.12,0.0,0.0649,0.798,92.45,246753,4,82,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,5/24/21
+0.659,0.683,3,-5.623,1,0.0312,0.513,4.93e-06,0.133,0.397,139.931,203373,4,94,contemporary country**country pop,Lainey Wilson,5/24/21
+0.635,0.634,1,-8.91,0,0.356,0.195,0.000107,0.198,0.224,107.008,217883,4,100,dance pop**hip pop**pop**pop rap**queens hip hop,Nicki Minaj,5/24/21
+0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0906,0.695,109.997,164442,4,1,k-pop**k-pop boy group,BTS,5/31/21
+0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,229227,4,9,pop,Olivia Rodrigo,5/31/21
+0.672,0.526,4,-6.446,1,0.0599,0.0311,1.37e-06,0.28,0.28,123.999,143747,4,12,pop,Olivia Rodrigo,5/31/21
+0.638,0.259,7,-10.706,1,0.0898,0.753,0.0,0.219,0.269,88.485,202827,4,14,pop,Olivia Rodrigo,5/31/21
+0.395,0.443,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,0.338,168.924,175933,3,15,pop,Olivia Rodrigo,5/31/21
+0.369,0.272,9,-10.497,1,0.0364,0.866,0.0,0.147,0.218,172.929,152667,4,18,pop,Olivia Rodrigo,5/31/21
+0.473,0.203,2,-12.627,1,0.102,0.941,0.0,0.126,0.419,168.884,163587,4,19,pop,Olivia Rodrigo,5/31/21
+0.695,0.575,10,-6.334,0,0.116,0.198,0.0,0.0614,0.699,163.929,173160,4,24,pop,Olivia Rodrigo,5/31/21
+0.443,0.298,0,-12.181,1,0.0644,0.388,1e-05,0.103,0.172,77.253,209560,4,29,pop,Olivia Rodrigo,5/31/21
+0.752,0.563,3,-8.066,0,0.209,0.146,0.0,0.103,0.551,145.05,178776,4,33,chicago rap,Polo G,5/31/21
+0.895,0.469,1,-5.882,1,0.0661,0.0012,4.56e-05,0.192,0.076,126.917,138542,4,51,dance pop**pop**pop rap**r&b**scam rap**trap queen,City Girls,5/31/21
+0.549,0.643,9,-6.808,1,0.0543,0.0792,1.21e-05,0.107,0.123,174.041,168034,4,66,lgbtq+ hip hop**pop,Lil Nas X,5/31/21
+0.735,0.446,5,-10.232,1,0.109,0.0071,1.93e-05,0.173,0.121,150.915,199093,4,68,detroit trap**pop rap**rap**southern hip hop**trap,42 Dugg,5/31/21
+0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,154983,4,85,brostep**edm**pop**pop dance**progressive electro house,Marshmello,5/31/21
+0.586,0.474,2,-9.21,0,0.18,0.334,0.0,0.118,0.146,91.105,205702,4,92,melodic rap**rap**trap,A Boogie Wit da Hoodie,5/31/21
+0.924,0.73,11,-6.125,0,0.274,0.0525,0.0,0.113,0.848,99.01,236666,4,62,detroit hip hop**hip hop**rap,Eminem,6/7/21
+0.672,0.717,5,-7.476,1,0.226,0.103,0.0,0.398,0.473,157.905,180380,4,64,plugg**viral rap,Cochise,6/7/21
+0.78,0.718,3,-3.605,0,0.0506,0.31,0.000163,0.0932,0.342,127.949,199604,4,66,puerto rican pop**trap latino,Rauw Alejandro,6/7/21
+0.627,0.678,2,-4.691,1,0.0294,0.185,0.0,0.374,0.724,100.032,160839,4,75,contemporary country**country**country road**modern country rock,Chase Rice,6/7/21
+0.754,0.66,0,-6.811,1,0.267,0.179,0.0,0.194,0.316,83.0,209299,4,81,atl hip hop**atl trap**rap**trap,Lil Baby,6/7/21
+0.57,0.431,9,-8.685,0,0.178,0.583,0.0,0.105,0.433,154.918,215496,4,99,dfw rap**trap,MO3,6/7/21
+0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,206710,4,10,latin**reggaeton**trap latino,Bad Bunny,6/14/21
+0.596,0.65,9,-5.167,1,0.337,0.138,0.0,0.14,0.188,133.997,257428,4,16,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.643,0.403,1,-11.254,0,0.41,0.343,0.0,0.138,0.111,98.54,174682,4,20,melodic rap**rap**trap,Roddy Ricch,6/14/21
+0.526,0.334,10,-8.491,0,0.251,0.702,0.00782,0.0586,0.522,74.966,212496,4,27,art pop**electropop**pop,Billie Eilish,6/14/21
+0.744,0.697,11,-4.067,1,0.136,0.0415,0.0,0.112,0.238,150.046,192921,4,31,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.788,0.628,11,-5.746,0,0.12,0.00715,0.0,0.132,0.479,104.083,166911,4,34,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.856,0.727,2,-5.616,1,0.277,0.013,0.0,0.117,0.286,146.044,173419,4,43,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.77,0.561,10,-4.97,0,0.083,0.14,0.0,0.123,0.81,145.928,173208,4,46,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.742,0.701,1,-5.92,1,0.21,0.0821,0.0,0.116,0.178,137.951,195064,4,56,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.89,0.674,11,-5.45,0,0.318,0.107,0.0,0.111,0.248,134.028,216548,4,58,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.789,0.609,1,-5.969,1,0.174,0.0439,0.0,0.178,0.0816,136.001,172401,4,60,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.763,0.798,2,-4.692,1,0.397,0.0555,0.0,0.116,0.482,77.987,187680,4,67,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.469,0.613,11,-6.556,1,0.335,0.0747,0.0,0.205,0.135,72.434,235015,1,68,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.741,0.892,10,-4.225,0,0.304,0.172,0.0,0.126,0.56,159.088,181981,4,70,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.53,0.826,4,-6.369,1,0.43,0.0209,0.0,0.0915,0.277,95.99,229375,4,71,bc underground hip hop**country rap,Tom MacDonald,6/14/21
+0.884,0.577,1,-4.716,1,0.319,0.0843,0.0,0.0602,0.854,137.032,218611,4,73,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.677,0.634,7,-6.231,1,0.335,0.228,0.0,0.131,0.496,90.268,206254,4,79,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.644,0.563,0,-9.814,0,0.159,0.0518,0.0,0.179,0.339,160.106,218417,4,80,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.795,0.599,6,-7.819,1,0.123,0.0414,0.0,0.193,0.351,97.033,195454,4,99,atl hip hop**atl trap**rap**trap,Lil Baby,6/14/21
+0.927,0.538,1,-3.917,1,0.116,0.0312,0.0,0.0945,0.221,125.983,278191,4,15,atl hip hop**rap**trap,Migos,6/21/21
+0.95,0.693,9,-3.424,1,0.0898,0.0133,0.0,0.173,0.891,130.02,184635,4,16,houston rap**pop**trap queen,Megan Thee Stallion,6/21/21
+0.479,0.645,5,-7.336,0,0.302,0.135,0.0,0.0825,0.381,155.057,168729,4,26,chicago rap,Polo G,6/21/21
+0.917,0.623,1,-8.231,1,0.135,0.0985,0.0,0.0833,0.687,126.063,206272,4,27,atl hip hop**rap**trap,Migos,6/21/21
+0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,210560,4,38,dance pop**pop,Doja Cat,6/21/21
+0.506,0.563,1,-7.664,0,0.411,0.0326,0.0,0.0856,0.153,168.146,190509,4,53,chicago rap,Polo G,6/21/21
+0.522,0.466,3,-8.05,0,0.458,0.331,0.0,0.11,0.459,78.43,137692,4,59,chicago rap,Polo G,6/21/21
+0.87,0.629,11,-7.598,0,0.279,0.173,0.0,0.101,0.512,134.944,241790,4,61,atl hip hop**rap**trap,Migos,6/21/21
+0.685,0.515,4,-8.666,0,0.291,0.548,0.0,0.119,0.299,162.071,131968,4,63,chicago rap,Polo G,6/21/21
+0.73,0.483,4,-8.565,1,0.0879,0.237,7.99e-05,0.31,0.883,87.996,192621,4,64,art pop**electropop**metropopolis**nz pop**pop,Lorde,6/21/21
+0.831,0.719,10,-6.836,1,0.235,0.514,0.0,0.0675,0.859,155.038,248652,4,65,atl hip hop**rap**trap,Migos,6/21/21
+0.772,0.535,1,-7.41,1,0.231,0.038,1.24e-06,0.161,0.207,76.065,189512,4,71,atl hip hop**rap**trap,Migos,6/21/21
+0.734,0.712,6,-6.217,0,0.201,0.391,0.0,0.103,0.674,140.369,165405,4,79,chicago rap,Polo G,6/21/21
+0.802,0.588,8,-6.768,1,0.137,0.498,0.0,0.111,0.522,87.501,168765,4,83,chicago rap,Polo G,6/21/21
+0.861,0.487,6,-8.533,1,0.131,0.0632,0.0,0.144,0.707,92.998,171232,4,85,chicago rap,Polo G,6/21/21
+0.664,0.375,1,-9.768,1,0.387,0.0135,0.0,0.117,0.145,171.784,161627,4,86,chicago rap,Polo G,6/21/21
+0.738,0.658,5,-7.44,0,0.269,0.0344,0.0,0.419,0.39,128.208,126625,4,89,chicago rap,Polo G,6/21/21
+0.849,0.701,6,-4.407,0,0.06,0.407,0.0,0.112,0.505,98.005,261667,4,93,reggaeton**reggaeton flow**trap latino,Los Legendarios,6/21/21
+0.772,0.48,6,-11.392,0,0.46,0.242,0.0,0.0975,0.339,91.047,265404,4,97,chicago rap,Polo G,6/21/21
+0.691,0.695,0,-5.6,1,0.0367,0.0592,0.0,0.0647,0.514,106.064,233386,4,100,dance pop**edm**electro house**pop**pop dance**pop edm**slap house**tropical house,Regard,6/21/21
+0.902,0.669,1,-5.049,1,0.457,0.161,0.0,0.0728,0.628,139.949,112547,4,39,north carolina hip hop**rap,DaBaby,6/28/21
+0.649,0.76,1,-6.487,1,0.0574,0.114,0.0,0.317,0.843,80.018,161853,4,51,contemporary country**country**country road**modern country rock,Walker Hayes,6/28/21
+0.469,0.673,6,-8.015,1,0.0337,0.418,1.41e-05,0.119,0.578,175.954,174838,4,85,arkansas country**contemporary country**country**country road**modern country rock**redneck,Justin Moore,6/28/21
+0.494,0.771,1,-4.309,1,0.0626,0.0649,0.0,0.11,0.371,136.053,228440,4,90,contemporary country**country**country road,Luke Bryan,6/28/21
+0.386,0.762,9,-6.341,1,0.564,0.122,0.0,0.527,0.433,170.691,138312,4,93,hip hop**rap,"Tyler, The Creator",6/28/21
+0.783,0.435,7,-7.78,1,0.0588,0.282,0.0,0.0833,0.512,106.974,210220,4,94,alt z**dance pop**pop**post-teen pop,Tate McRae,6/28/21
+0.686,0.566,9,-5.977,1,0.0423,0.254,0.0,0.11,0.542,146.042,203381,4,99,,Elvie Shane,6/28/21
+0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,230747,4,5,pop**uk pop,Ed Sheeran,7/5/21
+0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,186173,4,11,dance pop**pop,Doja Cat,7/5/21
+0.493,0.653,0,-5.666,0,0.0466,0.269,0.0,0.511,0.852,142.347,121573,4,14,hip hop**rap,"Tyler, The Creator",7/5/21
+0.827,0.571,11,-7.949,1,0.366,0.0195,0.0,0.166,0.62,142.034,146419,4,40,hip hop**rap,"Tyler, The Creator",7/5/21
+0.743,0.655,6,-5.015,0,0.159,0.114,0.0,0.0764,0.785,172.031,261335,4,41,latin**reggaeton**trap latino,Nio Garcia,7/5/21
+0.62,0.586,1,-6.612,1,0.212,0.155,0.0,0.535,0.487,137.131,130980,4,42,hip hop**rap,"Tyler, The Creator",7/5/21
+0.371,0.75,7,-5.382,0,0.402,0.601,0.0,0.482,0.729,173.456,155293,4,48,hip hop**rap,"Tyler, The Creator",7/5/21
+0.933,0.656,2,-5.85,1,0.322,0.129,0.0,0.161,0.934,119.987,159083,4,51,north carolina hip hop**rap,DaBaby,7/5/21
+0.703,0.845,10,-4.851,0,0.337,0.169,0.0,0.122,0.745,97.672,146482,4,55,hip hop**rap,"Tyler, The Creator",7/5/21
+0.683,0.615,5,-5.737,1,0.0966,0.222,8.25e-06,0.154,0.45,77.014,188893,4,57,dance pop**pop,Doja Cat,7/5/21
+0.467,0.635,7,-6.115,1,0.154,0.314,4.16e-06,0.844,0.51,127.596,88625,3,59,hip hop**rap,"Tyler, The Creator",7/5/21
+0.468,0.652,0,-4.912,1,0.0722,0.333,0.000318,0.55,0.39,140.223,588139,4,60,hip hop**rap,"Tyler, The Creator",7/5/21
+0.685,0.855,1,-6.724,0,0.438,0.329,8.9e-05,0.301,0.46,157.181,223719,4,66,hip hop**rap,"Tyler, The Creator",7/5/21
+0.665,0.469,10,-7.778,0,0.13,0.565,0.000317,0.219,0.142,115.852,229565,4,68,hip hop**rap,"Tyler, The Creator",7/5/21
+0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,211560,4,78,indie rock italiano**italian pop,Maneskin,7/5/21
+0.454,0.866,2,-5.348,1,0.391,0.121,0.0067,0.167,0.518,92.463,175123,4,84,hip hop**rap,"Tyler, The Creator",7/5/21
+0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,172627,4,88,dance pop**pop,Doja Cat,7/5/21
+0.912,0.655,8,-6.029,0,0.162,0.315,3.39e-05,0.0894,0.793,91.942,138293,4,93,dance pop**pop,Doja Cat,7/5/21
+0.555,0.712,1,-7.446,1,0.323,0.0451,5.14e-06,0.182,0.555,78.958,515865,4,95,hip hop**rap,"Tyler, The Creator",7/5/21
+0.766,0.814,2,-3.367,1,0.0733,0.044,1.08e-05,0.195,0.481,108.07,203588,4,99,hip hop**rap,"Tyler, The Creator",7/5/21
+0.617,0.627,1,-4.694,1,0.0269,0.789,1.72e-06,0.11,0.351,112.096,269724,4,14,alternative metal**contemporary country**country**country road**modern country rock**outlaw country**redneck,Aaron Lewis,7/12/21
+0.443,0.72,7,-3.743,0,0.0733,0.0669,0.0,0.0909,0.374,89.378,301304,4,49,dmv rap**pop**r&b**rap,Brent Faiyaz,7/12/21
+0.532,0.708,0,-8.121,1,0.0505,0.435,0.0236,0.107,0.586,167.977,254467,4,73,eau claire indie**folktronica**indie pop,Big Red Machine,7/12/21
+0.74,0.611,7,-7.312,1,0.155,0.227,0.0,0.0991,0.534,129.947,221816,4,81,chicago drill**chicago rap**drill**rap**southern hip hop**trap,G Herbo,7/12/21
+0.849,0.707,0,-6.002,1,0.113,0.0266,8.58e-06,0.618,0.602,104.027,248040,4,82,afro dancehall**afropop**azonto**nigerian hip hop**nigerian pop,WizKid,7/12/21
+0.731,0.626,11,-6.919,1,0.0805,0.125,0.0,0.183,0.862,82.488,173640,4,83,modern indie pop,Tai Verdes,7/12/21
+0.602,0.477,9,-8.425,1,0.032,0.268,3.1e-05,0.173,0.552,183.89,213493,4,90,contemporary country**outlaw country,Chris Stapleton,7/12/21
+0.535,0.915,11,-3.819,1,0.0991,0.00699,0.0,0.224,0.731,140.13,178613,4,91,contemporary country**country**country road,Old Dominion,7/12/21
+0.581,0.86,7,-4.092,1,0.039,0.048,0.0,0.169,0.79,148.318,210480,4,95,contemporary country**country**country pop,Jameson Rodgers,7/12/21
+0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,187585,4,1,k-pop**k-pop boy group,BTS,7/19/21
+0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,4,3,australian hip hop,The Kid LAROI,7/19/21
+0.797,0.631,3,-3.818,0,0.0786,0.0904,3.71e-06,0.0998,0.288,129.915,184213,4,13,dfw rap**melodic rap**rap,Post Malone,7/19/21
+0.893,0.463,1,-5.301,1,0.36,0.199,0.0,0.318,0.591,81.026,229601,4,16,escape room**pop**r&b**rap latina**trap queen,BIA,7/19/21
+0.765,0.373,8,-9.921,1,0.0713,0.341,0.525,0.112,0.554,85.016,195777,4,39,art pop**electropop**pop,Billie Eilish,7/19/21
+0.434,0.889,9,-5.684,1,0.0509,0.395,0.0,0.273,0.845,113.326,153338,5,50,black americana**contemporary country**country road,Kane Brown,7/19/21
+0.784,0.474,8,-6.139,1,0.0524,0.333,0.0,0.278,0.64,128.012,204434,4,78,hip hop**queens hip hop**rap**sudanese pop**underground hip hop,Bas,7/19/21
+0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,273474,4,89,reggaeton**trap latino,Mora,7/19/21
+0.592,0.494,4,-10.618,0,0.0747,0.237,0.0,0.13,0.231,132.037,209771,4,94,latin**reggaeton**trap latino,Bad Bunny,7/19/21
+0.583,0.867,11,-4.17,1,0.0637,0.143,0.0,0.0863,0.962,160.096,164678,4,100,contemporary country**country**country pop,Carly Pearce,7/19/21
+0.74,0.576,6,-6.744,0,0.146,0.0249,0.0,0.104,0.315,110.095,209476,4,14,dance pop**pop**post-teen pop**r&b**urban contemporary,Normani,7/26/21
+0.662,0.686,7,-8.302,1,0.332,0.251,5.59e-06,0.349,0.678,143.971,215000,4,49,brooklyn drill,Pop Smoke,7/26/21
+0.437,0.527,6,-6.967,1,0.465,0.185,0.0,0.153,0.701,187.815,181714,4,50,melodic rap**rap**trap,Trippie Redd,7/26/21
+0.716,0.67,0,-6.995,0,0.101,0.526,0.0,0.13,0.411,145.043,203586,4,54,brooklyn drill,Pop Smoke,7/26/21
+0.563,0.672,9,-7.226,0,0.0765,0.359,0.0,0.0972,0.284,99.772,156000,4,64,brooklyn drill,Pop Smoke,7/26/21
+0.795,0.582,0,-7.365,0,0.054,0.275,0.0,0.239,0.778,134.055,214925,4,71,brooklyn drill,Pop Smoke,7/26/21
+0.628,0.581,2,-8.377,1,0.188,0.46,0.0,0.152,0.259,145.396,120828,4,80,brooklyn drill,Pop Smoke,7/26/21
+0.441,0.623,1,-7.331,0,0.0414,0.135,0.0,0.14,0.285,78.082,249231,4,82,brooklyn drill,Pop Smoke,7/26/21
+0.675,0.608,3,-6.934,0,0.103,0.336,0.0,0.11,0.728,99.865,184800,4,86,brooklyn drill,Pop Smoke,7/26/21
+0.829,0.512,6,-5.865,0,0.187,0.492,0.0,0.12,0.638,80.511,123987,4,87,brooklyn drill**nyc rap,Sleepy Hallow,7/26/21
+0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982,258004,4,89,dance pop**pop**uk pop,Dua Lipa,7/26/21
+0.578,0.684,0,-5.908,1,0.191,0.107,0.0,0.49,0.595,106.743,228252,3,97,brooklyn drill,Pop Smoke,7/26/21
+0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,212000,4,2,lgbtq+ hip hop**pop,Lil Nas X,8/2/21
+0.456,0.679,1,-4.802,1,0.0324,0.176,0.0,0.103,0.483,184.075,212030,4,15,contemporary country**country**country road,Jason Aldean,8/2/21
+0.671,0.639,2,-6.852,0,0.134,0.0928,0.0,0.0941,0.385,119.82,216000,5,41,australian hip hop,The Kid LAROI,8/2/21
+0.833,0.498,10,-5.196,0,0.117,0.0493,0.0,0.119,0.259,139.928,153406,4,57,canadian hip hop**toronto rap,Smiley,8/2/21
+0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,287120,4,81,latin**reggaeton**trap latino,Farruko,8/2/21
+0.797,0.573,0,-7.85,1,0.319,0.159,0.0,0.144,0.445,124.995,206629,4,88,canadian hip hop**canadian trap**pop rap**rap**trap**trap soul,Belly,8/2/21
+0.773,0.674,0,-5.233,1,0.312,0.0581,0.0,0.233,0.704,161.087,193618,4,89,kentucky hip hop**pop rap**rap**southern hip hop**trap,EST Gee,8/2/21
+0.617,0.704,6,-7.61,0,0.0258,0.171,0.0,0.0924,0.57,91.541,180617,4,90,contemporary country**country**country road**modern country rock,Lee Brice,8/2/21
+0.843,0.697,7,-6.542,1,0.349,0.0215,0.0,0.144,0.792,98.081,184833,4,92,kentucky hip hop**pop rap**rap**southern hip hop**trap,EST Gee,8/2/21
+0.724,0.5,5,-7.112,0,0.259,0.41,0.0,0.115,0.317,97.694,171429,4,100,australian hip hop,The Kid LAROI,8/2/21
+0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,298899,3,11,art pop**electropop**pop,Billie Eilish,8/9/21
+0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,230125,4,37,bachata**bachata dominicana**latin**latin hip hop**latin pop**trap latino**tropical,Aventura,8/9/21
+0.599,0.128,10,-17.261,1,0.109,0.974,0.121,0.115,0.367,159.679,244221,4,69,art pop**electropop**pop,Billie Eilish,8/9/21
+0.895,0.389,7,-11.036,0,0.11,0.222,0.0346,0.105,0.549,110.023,196731,4,70,art pop**electropop**pop,Billie Eilish,8/9/21
+0.757,0.598,11,-7.777,1,0.058,0.0904,0.551,0.15,0.18,124.951,210233,4,72,art pop**electropop**pop,Billie Eilish,8/9/21
+0.849,0.48,9,-5.835,1,0.226,0.612,0.269,0.295,0.677,142.021,158463,4,80,art pop**electropop**pop,Billie Eilish,8/9/21
+0.712,0.703,4,-6.174,0,0.199,0.0287,0.0,0.13,0.452,89.024,202247,4,87,alabama rap**pop r&b**pop rap**r&b**trap,Yung Bleu,8/9/21
+0.403,0.159,1,-16.728,0,0.104,0.961,0.0121,0.34,0.0381,72.38,234761,4,90,art pop**electropop**pop,Billie Eilish,8/9/21
+0.666,0.643,8,-7.01,1,0.423,0.386,0.0,0.283,0.756,96.375,105377,4,95,pop rap,Capella Grey,8/9/21
+0.55,0.767,9,-6.281,1,0.0248,0.00141,3.07e-06,0.143,0.601,104.016,192027,3,96,contemporary country**country**country road**modern country rock,Scotty McCreery,8/9/21
+0.866,0.64,6,-6.195,0,0.413,0.000697,0.000114,0.702,0.636,142.04,189307,4,99,hip hop**rap**tennessee hip hop**underground hip hop,Isaiah Rashad,8/9/21
+0.748,0.74,8,-6.01,1,0.0484,0.0107,2.18e-05,0.101,0.518,121.004,220196,4,6,canadian contemporary r&b**canadian pop**pop,The Weeknd,8/16/21
+0.801,0.688,1,-4.594,1,0.396,0.144,0.0,0.107,0.5,162.928,157675,4,67,deep underground hip hop**kentucky hip hop**rap,Jack Harlow,8/16/21
+0.689,0.83,10,-4.047,0,0.302,0.121,0.0,0.318,0.703,94.566,214435,4,79,conscious hip hop**east coast hip hop**gangster rap**hardcore hip hop**hip hop**queens hip hop**rap,Nas,8/16/21
+0.681,0.687,9,-7.612,1,0.332,0.0555,0.0,0.062,0.588,108.641,190345,3,80,melodic rap**rap,Lil Tecca,8/16/21
+0.586,0.559,4,-6.725,1,0.05,0.639,0.0,0.0872,0.437,177.945,167480,4,82,contemporary country,Jordan Davis,8/16/21
+0.682,0.721,0,-4.633,0,0.0284,0.0341,0.0,0.381,0.248,101.067,205653,4,86,uk hip hop,KSI,8/16/21
+0.706,0.544,2,-7.275,1,0.0306,0.0273,0.0,0.087,0.477,115.935,177583,4,88,alt z**pop**social media pop,Nessa Barrett,8/16/21
+0.557,0.565,7,-6.12,1,0.026,0.229,3.9e-06,0.119,0.187,125.956,226267,3,93,contemporary country**country**country road,Kenny Chesney,8/16/21
+0.498,0.851,8,-5.496,1,0.326,0.132,4.21e-06,0.529,0.518,78.025,206778,4,100,conscious hip hop**east coast hip hop**gangster rap**hardcore hip hop**hip hop**queens hip hop**rap,Nas,8/16/21
+0.827,0.731,4,-5.524,0,0.088,0.13,0.0,0.418,0.607,118.992,172833,4,4,dance pop**escape room**minnesota hip hop**pop**trap queen,Lizzo,8/23/21
+0.587,0.847,0,-5.273,0,0.0594,0.00126,2.29e-06,0.111,0.376,149.954,162805,4,65,cali rap**pop rap,Sueco,8/23/21
+0.663,0.432,8,-8.553,1,0.0382,0.448,2.62e-05,0.152,0.307,130.108,230881,4,78,melodic rap**trap,YNW Melly,8/23/21
+0.528,0.627,11,-3.719,1,0.0373,0.0107,0.0,0.529,0.295,139.988,180371,4,79,ohio hip hop,Machine Gun Kelly,8/23/21
+0.796,0.798,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,0.942,116.032,202735,4,81,glam rock**mellow gold**piano rock,Elton John,8/23/21
+0.767,0.762,1,-6.116,1,0.272,0.114,0.0,0.125,0.307,94.145,242234,4,89,bc underground hip hop**country rap,Tom MacDonald,8/23/21
+0.403,0.711,8,-4.189,1,0.0569,0.137,0.0,0.109,0.801,203.803,170560,4,91,contemporary country**country**country road**modern country rock,Dustin Lynch,8/23/21
+0.565,0.491,1,-6.902,1,0.221,0.0049,0.0,0.137,0.337,175.694,242085,4,97,dance pop**hip hop**pop**pop rap**r&b**rap**southern hip hop**urban contemporary,T-Pain,8/23/21
+0.776,0.808,11,-4.501,1,0.117,0.0297,0.000127,0.103,0.494,123.988,184104,4,48,canadian pop**dance pop**pop**viral pop,Shawn Mendes,8/30/21
+0.672,0.654,1,-4.528,1,0.0966,0.201,0.0,0.1,0.404,78.512,188026,4,49,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.756,0.698,6,-5.464,1,0.178,0.0849,0.0,0.221,0.66,77.497,247714,4,56,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.321,0.525,7,-9.891,0,0.131,0.0668,0.0,0.137,0.152,75.774,212064,4,60,florida rap,Rod Wave,8/30/21
+0.74,0.564,8,-6.71,1,0.0688,0.0126,0.0,0.126,0.129,158.114,152025,4,67,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.689,0.695,11,-5.22,1,0.0429,0.019,0.0,0.123,0.359,75.05,168253,4,69,brostep**complextro**edm**electro,Skrillex,8/30/21
+0.471,0.846,0,-5.269,1,0.0389,0.00279,2.86e-06,0.145,0.539,100.089,213719,4,73,black americana**contemporary country**country road,Kane Brown,8/30/21
+0.471,0.396,8,-6.654,1,0.0336,0.77,0.0,0.0729,0.263,149.609,215507,4,75,pop**uk pop,Ed Sheeran,8/30/21
+0.674,0.824,1,-4.74,1,0.0588,0.0309,0.0,0.0567,0.567,150.017,160000,3,86,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.422,0.34,0,-6.577,1,0.0351,0.877,1.77e-05,0.149,0.223,77.213,204094,4,90,alt z**gen z singer-songwriter**pop,Clinton Kane,8/30/21
+0.425,0.672,0,-5.586,1,0.245,0.0921,0.0,0.0903,0.15,85.801,231771,4,91,florida rap,Rod Wave,8/30/21
+0.634,0.804,11,-6.688,0,0.477,0.162,0.0,0.351,0.809,147.259,136377,4,92,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.712,0.636,1,-7.188,1,0.0566,0.303,0.0,0.112,0.126,134.927,155259,5,93,florida rap,Rod Wave,8/30/21
+0.718,0.684,11,-5.16,0,0.248,0.0182,0.0,0.233,0.856,146.084,159452,4,94,melodic rap**rap**trap,Trippie Redd,8/30/21
+0.944,0.693,11,-8.605,0,0.266,0.00789,0.0,0.164,0.626,134.061,159240,4,96,atl hip hop**atl trap**gangster rap**hip hop**melodic rap**pop rap**rap**trap,Young Thug,8/30/21
+0.509,0.762,8,-4.57,1,0.0829,0.0922,0.0,0.0883,0.317,84.847,193493,4,99,florida rap,Rod Wave,8/30/21
+0.587,0.561,0,-6.569,1,0.146,0.0466,0.0,0.109,0.351,80.009,243187,4,6,chicago rap**rap,Kanye West,9/6/21
+0.457,0.572,4,-6.739,1,0.0971,0.539,0.000277,0.0843,0.587,109.993,297000,4,10,chicago rap**rap,Kanye West,9/6/21
+0.546,0.64,8,-5.582,1,0.37,0.0438,0.0,0.137,0.63,137.728,339250,4,11,chicago rap**rap,Kanye West,9/6/21
+0.729,0.464,11,-9.185,0,0.398,0.363,0.0,0.129,0.27,107.819,204630,5,12,chicago rap**rap,Kanye West,9/6/21
+0.756,0.69,7,-3.948,1,0.0639,0.27,0.0,0.303,0.399,148.092,147669,4,16,chicago rap**rap,Kanye West,9/6/21
+0.319,0.236,5,-9.644,1,0.0318,0.898,1.62e-05,0.272,0.254,162.351,156091,4,17,chicago rap**rap,Kanye West,9/6/21
+0.711,0.611,1,-5.453,1,0.329,0.00575,0.0,0.231,0.144,134.14,252070,4,18,hip hop**rap,Baby Keem,9/6/21
+0.798,0.545,1,-6.466,1,0.168,0.00904,9.48e-05,0.258,0.212,118.029,226653,4,20,chicago rap**rap,Kanye West,9/6/21
+0.681,0.63,1,-5.585,1,0.0385,0.00383,0.0,0.139,0.183,151.951,161053,4,22,hip hop**philly rap**pop rap**rap**southern hip hop**trap,Meek Mill,9/6/21
+0.495,0.724,8,-6.762,1,0.0858,0.115,0.00384,0.0839,0.118,108.817,573659,5,26,chicago rap**rap,Kanye West,9/6/21
+0.51,0.428,2,-8.455,0,0.233,0.785,0.0,0.274,0.112,84.272,195170,4,27,chicago rap**rap,Kanye West,9/6/21
+0.643,0.638,7,-7.929,1,0.24,0.147,0.0,0.467,0.383,99.989,242400,4,28,chicago rap**rap,Kanye West,9/6/21
+0.341,0.311,10,-7.482,1,0.0429,0.291,6.35e-05,0.11,0.0794,96.959,333462,3,30,chicago rap**rap,Kanye West,9/6/21
+0.778,0.443,4,-8.638,1,0.0681,0.125,0.000162,0.126,0.122,109.967,323455,4,40,chicago rap**rap,Kanye West,9/6/21
+0.76,0.422,0,-7.265,0,0.129,0.0409,0.0,0.152,0.271,82.965,145301,4,42,chicago rap**rap,Kanye West,9/6/21
+0.424,0.534,5,-6.086,0,0.0384,0.129,0.0,0.352,0.344,111.189,197898,4,43,chicago rap**rap,Kanye West,9/6/21
+0.384,0.531,5,-6.965,1,0.0452,0.117,0.0,0.249,0.237,97.153,358622,4,52,chicago rap**rap,Kanye West,9/6/21
+0.135,0.327,1,-8.059,0,0.0336,0.00632,0.786,0.138,0.0802,147.168,178061,3,53,chicago rap**rap,Kanye West,9/6/21
+0.579,0.491,10,-7.934,1,0.0525,0.846,0.0,0.192,0.461,82.769,128313,4,58,chicago rap**rap,Kanye West,9/6/21
+0.477,0.65,0,-6.574,1,0.311,0.209,0.000247,0.155,0.072,166.589,221250,4,59,chicago rap**rap,Kanye West,9/6/21
+0.691,0.571,4,-6.412,1,0.0571,0.452,0.0,0.154,0.69,110.023,296795,4,63,chicago rap**rap,Kanye West,9/6/21
+0.523,0.702,6,-6.74,0,0.0462,0.00397,0.0325,0.063,0.494,179.992,176413,4,64,dance pop**electropop**etherpop**indie poptimism**pop,Halsey,9/6/21
+0.594,0.669,6,-4.683,0,0.202,0.0573,0.0,0.409,0.263,91.371,183297,4,68,chicago rap**rap,Kanye West,9/6/21
+0.72,0.426,1,-7.274,0,0.311,0.143,0.0,0.535,0.201,83.06,162108,4,70,chicago rap**rap,Kanye West,9/6/21
+0.421,0.502,3,-6.35,1,0.0306,0.664,3.29e-06,0.381,0.291,126.904,310394,4,77,chicago rap**rap,Kanye West,9/6/21
+0.701,0.444,7,-10.814,0,0.0443,0.22,0.0,0.104,0.198,144.023,104219,3,90,chicago rap**rap,Kanye West,9/6/21
+0.915,0.72,8,-3.126,1,0.0459,0.025,1.42e-05,0.0942,0.631,126.986,131067,4,96,latin**reggaeton**reggaeton colombiano**trap latino,J Balvin,9/6/21
+0.803,0.597,11,-6.035,0,0.141,0.000619,4.5e-06,0.323,0.331,136.008,257605,4,1,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.767,0.438,7,-8.726,0,0.29,0.181,0.0,0.142,0.381,86.975,221980,4,2,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.666,0.465,1,-8.545,1,0.26,0.0503,0.0,0.215,0.292,167.937,291175,4,3,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.423,0.667,6,-7.012,0,0.326,0.758,0.0,0.246,0.496,86.743,336511,4,4,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.849,0.424,5,-9.579,0,0.324,0.0635,0.0,0.0834,0.153,145.887,242966,4,5,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.686,0.385,7,-8.35,0,0.297,0.614,0.0,0.131,0.147,143.07,296568,4,7,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.701,0.741,2,-6.157,1,0.313,0.112,0.0,0.699,0.588,140.177,178623,4,8,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.568,0.56,9,-9.059,1,0.42,0.228,3.05e-06,0.39,0.246,130.019,308756,4,9,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.73,0.576,2,-5.442,1,0.287,0.354,3.59e-05,0.15,0.155,92.131,228461,4,10,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.84,0.744,1,-4.751,1,0.113,0.0181,0.0,0.629,0.171,83.737,204347,4,11,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.507,0.429,2,-7.726,1,0.326,0.0518,0.0,0.109,0.0744,91.0,273578,3,12,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.518,0.69,9,-6.15,1,0.107,0.128,0.0,0.176,0.59,77.837,205721,4,14,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.724,0.531,5,-4.108,0,0.298,0.225,0.0,0.11,0.141,89.901,239635,4,16,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.488,0.635,10,-7.19,1,0.26,0.179,8.16e-06,0.156,0.783,174.072,269884,4,18,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.59,0.493,7,-8.704,0,0.0367,0.402,0.00504,0.129,0.0498,150.026,252379,4,22,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.476,0.161,8,-11.665,0,0.0407,0.967,0.0381,0.109,0.0908,119.614,133763,4,24,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.519,0.851,7,-6.001,1,0.29,0.118,0.0,0.178,0.711,123.823,213104,5,25,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.843,0.485,10,-8.735,0,0.195,0.181,0.0675,0.107,0.689,100.053,192418,4,26,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.32,0.466,8,-6.77,1,0.0374,0.00645,0.0,0.133,0.338,177.693,229304,3,27,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.473,0.53,0,-8.506,1,0.249,0.812,6.92e-06,0.227,0.637,74.732,351220,3,35,canadian hip hop**canadian pop**hip hop**rap**toronto rap,Drake,9/13/21
+0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,207853,4,16,pop**uk pop,Ed Sheeran,9/20/21
+0.903,0.535,9,-6.434,1,0.0742,0.297,0.0,0.345,0.508,130.022,148779,4,28,,Chloe,9/20/21
+0.667,0.582,11,-5.791,0,0.267,0.00466,0.0,0.124,0.141,121.972,316733,4,53,hip hop**rap,Baby Keem,9/20/21
+0.715,0.625,5,-5.58,1,0.152,0.225,0.0,0.103,0.588,147.97,233514,4,63,baton rouge rap**trap,YoungBoy Never Broke Again,9/20/21
+0.773,0.47,2,-7.93,1,0.0299,0.0153,0.000193,0.0851,0.399,94.995,162680,4,64,modern alternative pop,THE ANXIETY,9/20/21
+0.718,0.628,0,-5.334,1,0.373,0.0884,0.0,0.186,0.771,139.769,154433,4,68,north carolina hip hop**rap,DaBaby,9/20/21
+0.806,0.653,8,-6.283,1,0.0902,0.0282,0.000784,0.107,0.85,150.058,200690,4,84,k-pop,LISA,9/20/21
+0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,143901,4,10,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.583,0.67,8,-7.289,1,0.0646,0.0374,0.0001,0.126,0.498,140.061,220433,4,37,pop,Taylor Swift,9/27/21
+0.841,0.527,6,-8.116,1,0.149,0.0427,1.54e-06,0.12,0.582,163.975,174164,4,42,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.923,0.533,11,-6.016,0,0.262,0.0504,0.0,0.102,0.587,133.991,145075,4,47,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.606,0.671,10,-7.529,0,0.352,0.415,0.0,0.176,0.642,168.201,148571,4,71,baton rouge rap**trap,YoungBoy Never Broke Again,9/27/21
+0.685,0.717,0,-6.456,0,0.0411,0.101,1.87e-05,0.266,0.549,127.963,221203,4,72,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,145800,4,80,afro r&b,CKay,9/27/21
+0.742,0.734,8,-5.582,0,0.0407,0.629,0.00314,0.0834,0.541,114.952,146006,4,86,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.708,0.598,3,-4.969,0,0.0617,0.202,0.0,0.183,0.561,144.09,161667,4,88,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.768,0.764,0,-5.82,1,0.0295,0.0963,1.03e-05,0.114,0.472,92.965,170323,4,90,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.629,0.445,3,-6.999,1,0.0258,0.77,2.92e-06,0.351,0.209,94.103,183241,4,97,lgbtq+ hip hop**pop,Lil Nas X,9/27/21
+0.509,0.842,6,-5.394,1,0.0512,0.0506,0.0,0.0856,0.664,171.901,190452,4,98,contemporary country**country**country road**modern country rock,Zac Brown Band,9/27/21
